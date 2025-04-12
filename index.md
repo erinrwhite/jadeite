@@ -1,7 +1,10 @@
 # Tech notes
+
+Intro paragraph.
+
+## posts
 <ul>
- {% assign posts = site.posts %}
-  {% for p in posts %}
+  {% for p in site.posts %}
 	 <li><a href="{{ p.url }}">{{ p.title }}</a></li>
   {% endfor %} 
 </ul>
