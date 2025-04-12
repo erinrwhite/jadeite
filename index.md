@@ -1,6 +1,8 @@
+ {% assign pages = site.pages | where: "layout", page.index_layout %}
+ 
 # Tech notes
 <ul>
-  {% for page in site.pages %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% for p in pages %}
+          <li><a href="{{ p.url }}">{{ p.title }}</a></li>
   {% endfor %} 
 </ul>
