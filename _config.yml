@@ -14,7 +14,7 @@ defaults:
     values:
       layout: tagged
 
-blog: /posts
+Blog: /posts
 
 links:
   # Resume: /assets/resume.pdf
