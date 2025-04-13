@@ -1,8 +1,8 @@
 :root {
     --width: 720px;
     --font-main: 'Verdana', sans-serif;
-    --font-secondary: 'Sans-serif', sans-serif;
-    --font-scale: .95em;
+    --font-secondary: 'Verdana', sans-serif;
+    --font-scale: 1em;
     --background-color: #FFFFFF; 
     --heading-color: #222;
     --text-color: #444; 
