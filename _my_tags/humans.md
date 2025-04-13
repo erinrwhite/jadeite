@@ -1,0 +1,4 @@
+---
+slug: humans
+name: Humans
+---
