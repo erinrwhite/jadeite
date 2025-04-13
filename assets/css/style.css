@@ -1,15 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
 :root {
     --width: 900px;
-    --font-main: 'Fira Code', monospace;
-    --font-secondary: 'Fira Code', monospace;
+    --font-main: 'Verdana', monospace;
+    --font-secondary: 'Sans-serif', monospace;
     --font-scale: .95em;
     --background-color: #FFFFFF; 
-    --heading-color: #2C1E15; /* Darker roast coffee */
+    --heading-color: #222; /* Darker roast coffee */
     --text-color: #1F1408; /* Darker espresso */
-    --link-color: #7C4011; /* Darker caramel */
-    --visited-color: #5E3211; /* Darker roasted coffee beans */
+    --link-color: blue; /* Darker caramel */
+    --visited-color: purple; /* Darker roasted coffee beans */
     --main-color: #96572D; /* Darker café au lait */
     --code-background-color: #E6D7C3; /* Coffee stained paper */
     --code-color: #2C1E15; /* Darker roast coffee */
