@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=115'
 permalink: /takeaways-from-code4lib-2014/
-tags: [libraries tech]
+tags: libraries tech
 ---
 
 I enjoyed the hell out of [Code4Lib 2014](http://code4lib.org/conference/2014/schedule) in Raleigh, NC back in March. Code4Lib is a group of library/ish web/software developers/aficionados. We are loosely organized around a [listserv](https://listserv.nd.edu/cgi-bin/wa?A0=CODE4LIB), an [annual conference](http://code4lib.org/conference) and regional sub-conferences, and an [open-access journal](http://journal.code4lib.org/).

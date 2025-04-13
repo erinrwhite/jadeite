@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=249'
 permalink: /recruiting-web-workers/
-tags: [libraries humans tech]
+tags: libraries humans tech
 ---
 
 In the past few years I’ve created a couple of part-time, then full-time, staff positions on the web team at VCU Libraries. We now have a web designer and a web developer who’ve both been with us for a while, but for a few years it was a revolving door of hires. So let’s just say I’ve hired lots of folks in just a few years as a manager.

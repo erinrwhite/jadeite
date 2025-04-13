@@ -11,7 +11,7 @@ classic-editor-remember:
 full_width_featured_image_disabled:
     - '1'
 image: /wp-content/uploads/2024/03/beautiful-neighbors.png
-tags: [libraries life providence richmond]
+tags: libraries life providence richmond
 ---
 
 In early 2016 I posted [What it means to stay]({{site.baseurl}}what-it-means-to-stay/), a rumination on staying put in my job long-term, building community, and switching into marathon mode in my workplace. I continue to hear from folks that it resonates with you.

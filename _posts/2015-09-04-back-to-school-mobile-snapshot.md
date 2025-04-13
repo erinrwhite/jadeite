@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=254'
 permalink: /back-to-school-mobile-snapshot/
-tags: [libraries UX IA]
+tags: libraries UX IA
 ---
 
 This week I took a look at mobile phone usage on the VCU Libraries website for the first couple weeks of class and compared that to similar time periods from the past couple years.

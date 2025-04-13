@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=196'
 permalink: /gifs-mas-in-new-york/
-tags: [life richmond]
+tags: life richmond
 ---
 
 [![30 rock and tree gif]({{site.baseurl}}/assets//2013-2024//2014/12/output_bQgt47.gif)]({{site.baseurl}}/assets//2013-2024//2014/12/output_bQgt47.gif) [![NBC studios gif]({{site.baseurl}}/assets//2013-2024//2014/12/output_4RnOt2.gif)]({{site.baseurl}}/assets//2013-2024//2014/12/output_4RnOt2.gif) [![output_JIuZ83]({{site.baseurl}}/assets//2013-2024//2014/12/output_JIuZ83.gif)]({{site.baseurl}}/assets//2013-2024//2014/12/output_JIuZ83.gif) [![output_pUP5SV]({{site.baseurl}}/assets//2013-2024//2014/12/output_pUP5SV.gif)]({{site.baseurl}}/assets//2013-2024//2014/12/output_pUP5SV.gif)

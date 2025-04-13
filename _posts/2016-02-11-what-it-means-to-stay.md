@@ -4,7 +4,7 @@ date: '2016-02-11T11:43:23-05:00'
 author: erinrwhite
 layout: post
 permalink: /what-it-means-to-stay/
-tags: [libraries life richmond]
+tags: libraries life richmond
 ---
 
 Seven years ago last month I interviewed for my job at VCU. I started work a few months later, assuming I’d stick around for a couple of years then move on to my Next Academic Library Job. Instead I found myself signing closing papers on a house on my sixth work anniversary, having decided to root myself in my city and my job.

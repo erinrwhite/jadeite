@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=364'
 permalink: /podcast-interview-names-binaries-and-trans-affirming-systems-on-legacy-code-rocks/
-tags: [speaking libraries tech ux trans]
+tags: speaking libraries tech ux trans
 ---
 
 In February I was honored to be invited to join Scott Ford on his podcast [Legacy Code Rocks!](https://www.legacycode.rocks/podcast-1/episode/1d635be2/trans-inclusive-design-with-erin-white). I’m embedding the audio below. [View the full episode transcript](https://docs.google.com/document/d/e/2PACX-1vSD3JAZVDuYSbhQASCdUwAzBx1XDlzvWWi01rPOl7Qt_IdZCNRrNnGdinwtv4MA2vlTvqdo1GYg4Zwj/pub) — thanks to trans-owned [Deep South Transcription Services](https://www.facebook.com/DeepSouthTranscriptionServices)!

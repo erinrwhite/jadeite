@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=462'
 permalink: /im-new-here-human-centered-onboarding/
-tags: [life humans a11y]
+tags: life humans a11y
 ---
 
 *I wrote this post for my company’s November 2022 newsletter.*

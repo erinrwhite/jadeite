@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=212'
 permalink: /easier-access-for-databases-and-research-guides-at-vcu-libraries/
-tags: [libraries UX IA]
+tags: libraries UX IA
 ---
 
 Today VCU Libraries launched a couple of new web tools that should make it easier for people to find or discover our library’s databases and research guides.

@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=64'
 permalink: /thirteen-small-ideas-from-code4lib-2013/
-tags: [libraries tech]
+tags: libraries tech
 ---
 
 If you made it through the [tome that was the four big ideas]({{site.baseurl}}fou-things-that-inspired-me-at-code4lib-2013/), you’ll enjoy this list of smaller ideas from the Code4Lib conference.

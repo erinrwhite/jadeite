@@ -4,12 +4,8 @@ title: 'Code4Lib 2021 lightning talk: Planning for the most; or, a bellwether sp
 date: '2023-01-20T16:55:29-05:00'
 author: erinrwhite
 layout: post
-guid: '{{site.baseurl}}?p=425'
 permalink: /planning-for-the-most/
-full_width_featured_image_disabled:
-    - '1'
-image: /wp-content/uploads/2022/06/Bellwether-5-beautiful-bus-stop-scaled.jpg
-tags: [conferences speaking libraries richmond tech]
+tags: conferences speaking libraries richmond tech
 ---
 
 I gave this 5-minute talk almost two years ago at Code4Lib 2021, but hadn’t yet shared it here. [Slides are available through OSF](http://dx.doi.org/10.17605/OSF.IO/92P38); text is below. I’m no longer working at VCU, or in libraries, but wanted to share the talk here because this is something I continue to think about. Thanks for reading.

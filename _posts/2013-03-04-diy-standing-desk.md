@@ -5,7 +5,7 @@ date: '2013-03-04T10:21:00-05:00'
 author: erinrwhite
 layout: post
 permalink: /diy-standing-desk/
-tags: [life libraries]
+tags: life libraries
 ---
 
 <div class="wp-caption aligncenter" id="attachment_22" style="width: 635px">[![standing-desk-1]({{site.baseurl}}/assets//2013-2024//2013/03/standing-desk-1-1024x768.jpg)]({{site.baseurl}}/assets//2013-2024//2013/03/standing-desk-1.jpg)Improvised standing desk: file holder, old books, magazine holders, two shelves

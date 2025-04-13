@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=406'
 permalink: /this-car-runs-love-letter-to-a-1997-honda-accord/
-tags: [life richmond]
+tags: life richmond
 ---
 
 ![Close-up photos of a very well-loved dark green 1997 Honda Accord]({{site.baseurl}}/assets//2013-2024//2021/04/1997-accord-shots.jpg)
