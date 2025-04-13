@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=295'
 permalink: /2016-errandonnee-challenge-handled-it/
-tags:
-    - Bikes
-    - Life
-    - Richmond
+tags: [bikes life richmond]
 ---
 
 <div style="float: right;">[![Errandonnee 2016](https://farm2.staticflickr.com/1581/26014456471_6a8da042dc_n.jpg)](https://www.flickr.com/photos/conformerist/albums/72157666395808566 "Errandonnee 2016")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script></div>After being foiled by a long trip last year, I got the chance to attempt the [Errandonnee challenge](http://chasingmailboxes.com/2016/02/25/the-errandonnee-ride-or-run-and-get-stuff-done/) again this year (I [attempted it in 2014]({{site.baseurl}}errandonnee-winter-bike-challenge/), too). The challenge: complete 12 errands in 12 days and ride or run a total of 30 miles between March 4-15, 2016.

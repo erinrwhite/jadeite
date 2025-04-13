@@ -19,8 +19,8 @@
         --background-color: #111; 
         --heading-color: #ddd; 
         --text-color: #eee; 
-        --link-color: light-blue;
-        --visited-color: light-purple; 
+        --link-color: lightblue;
+        --visited-color: plum; 
         --main-color: ; 
         --code-background-color: #222; 
         --code-color: #fff; 
@@ -61,8 +61,7 @@ a {
 }
 
 a:hover {
-    background-color: var(--main-color);
-    color: white;
+    color: navy;
     text-decoration: none;
 }
 

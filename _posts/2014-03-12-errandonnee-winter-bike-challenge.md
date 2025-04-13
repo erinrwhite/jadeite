@@ -6,9 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=79'
 permalink: /errandonnee-winter-bike-challenge/
-tags:
-    - Bikes
-    - Richmond
+tags: [life bikes richmond]
 ---
 
 In an effort to certify my bike nerditude, I’m participating in [Chasing Mailboxes DC’s winter errandonnee challenge](http://chasingmailboxes.com/2014/03/04/winter-challenge-the-errandonnee-2014-edition/):

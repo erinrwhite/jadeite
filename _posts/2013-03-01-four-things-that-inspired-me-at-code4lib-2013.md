@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://blog.erinrwhite.com/?p=6'
 permalink: /fou-things-that-inspired-me-at-code4lib-2013/
-tags:
-    - Conferences
-    - Tech
-    - Libraries
+tags: [libraries tech]
 ---
 
 I was happy to make it back to the [Code4Lib conference](http://code4lib.org/conference/2013) this year. For those unfamiliar, [Code4Lib](http://code4lib.org/) is a group of self-organized library tech-types that’s not affiliated with a professional organization. Each year a different set of Code4Lib members from a different city volunteers to host the conference. This year’s conference was in Chicago, hosted by an intrepid group of library coders from UIC and Loyola.

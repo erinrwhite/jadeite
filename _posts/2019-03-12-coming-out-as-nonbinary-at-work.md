@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=315'
 permalink: /coming-out-as-nonbinary-at-work/
-tags:
-    - DEIB
-    - Libraries
-    - Life
+tags: [libraries life trans]
 ---
 
 This week, after 10 years of working at VCU Libraries, I have been letting my colleagues know that I’m nonbinary. Response from my boss, my team, and my colleagues has been *so* positive, and has made this process so incredibly easy.

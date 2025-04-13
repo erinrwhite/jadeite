@@ -8,10 +8,7 @@ guid: '{{site.baseurl}}?p=539'
 permalink: /observations-on-working-at-scale/
 classic-editor-remember:
     - classic-editor
-tags:
-    - 'Civic Tech'
-    - Providence
-    - Tech
+tags: [civic-tech providence tech a11y]
 ---
 
 Last summer, I landed a job at an agency that specializes in digital transformation (making better websites) for the U.S. government. Before that, I spent the first decade-plus of my career working in digital strategy at a large academic library.

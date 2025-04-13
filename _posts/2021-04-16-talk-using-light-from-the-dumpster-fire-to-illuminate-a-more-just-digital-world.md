@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=381'
 permalink: /talk-using-light-from-the-dumpster-fire-to-illuminate-a-more-just-digital-world/
-tags:
-    - 'Civic Tech'
-    - Libraries
-    - Richmond
+tags: [civic-tech libraries richmond speaking]
 ---
 
 This February I gave a lightning talk for the [Richmond Design Group](https://www.instagram.com/rvadsgn/?hl=en). My question: what if we use the light from the dumpster fire of 2020 to see an equitable, just digital world? How can we change our thinking to build the future web we need?

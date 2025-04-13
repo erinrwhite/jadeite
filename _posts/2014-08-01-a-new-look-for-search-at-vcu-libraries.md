@@ -6,11 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=146'
 permalink: /a-new-look-for-search-at-vcu-libraries/
-tags:
-    - Libraries
-    - Projects
-    - UX
-    - IA
+tags: [libraries UX IA]
 ---
 
 This week we launched a new design for [VCU Libraries Search](http://search.library.vcu.edu/) (our instance of [Ex Libris’ Primo](http://www.exlibrisgroup.com/category/PrimoOverview) discovery system). The guiding design principles behind this project:

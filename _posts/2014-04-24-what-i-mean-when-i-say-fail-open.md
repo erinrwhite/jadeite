@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=120'
 permalink: /what-i-mean-when-i-say-fail-open/
-tags:
-    - Life
-    - Humans
-    - Richmond
+tags: [life humans richmond]
 ---
 
 I’m proud to be included in [RVANews’ advice to soon-to-be college grads](http://rvanews.com/features/advice-for-soon-to-be-college-grads/111934) today. We were asked to give tweet-length advice. Here’s mine:

@@ -11,10 +11,7 @@ full_width_featured_image_disabled:
 classic-editor-remember:
     - classic-editor
 image: /wp-content/uploads/2016/02/erin_house.jpg
-tags:
-    - Libraries
-    - Life
-    - Richmond
+tags: [libraries life richmond]
 ---
 
 Seven years ago last month I interviewed for my job at VCU. I started work a few months later, assuming I’d stick around for a couple of years then move on to my Next Academic Library Job. Instead I found myself signing closing papers on a house on my sixth work anniversary, having decided to root myself in my city and my job.

@@ -6,10 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=126'
 permalink: /vacation-photos-with-a-disposable-camera/
-tags:
-    - Bikes
-    - Life
-    - Projects
+tags: [bikes life richmond]
 ---
 
 I took last week off and went on two short outdoorsy trips with friends. Rather than document the trips solely with my phone, as I’ve done lately, I decided to buy a couple of disposable film cameras and see how it went.
