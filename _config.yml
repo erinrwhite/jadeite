@@ -1,1 +1,20 @@
 remote_theme: knhash/jekyllBear
+
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:slug/
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: _my_tags
+    values:
+      layout: tagged
+
+blog: /posts
+
+links:
+  # Resume: /assets/resume.pdf

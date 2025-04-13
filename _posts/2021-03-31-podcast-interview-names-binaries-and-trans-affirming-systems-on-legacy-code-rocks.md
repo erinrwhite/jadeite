@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=364'
 permalink: /podcast-interview-names-binaries-and-trans-affirming-systems-on-legacy-code-rocks/
-categories:
+tags:
     - Libraries
     - Tech
     - UX

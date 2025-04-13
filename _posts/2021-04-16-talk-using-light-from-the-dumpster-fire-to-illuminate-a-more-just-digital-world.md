@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=381'
 permalink: /talk-using-light-from-the-dumpster-fire-to-illuminate-a-more-just-digital-world/
-categories:
+tags:
     - 'Civic Tech'
     - Libraries
     - Richmond

@@ -9,7 +9,7 @@ permalink: /planning-for-the-most/
 full_width_featured_image_disabled:
     - '1'
 image: /wp-content/uploads/2022/06/Bellwether-5-beautiful-bus-stop-scaled.jpg
-categories:
+tags:
     - Conferences
     - Libraries
     - Richmond

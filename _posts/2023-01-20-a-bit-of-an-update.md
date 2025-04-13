@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=457'
 permalink: /a-bit-of-an-update/
-categories:
+tags:
     - Life
     - Providence
     - Richmond

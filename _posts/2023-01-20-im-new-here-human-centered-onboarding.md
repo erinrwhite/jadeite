@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=462'
 permalink: /im-new-here-human-centered-onboarding/
-categories:
+tags:
     - DEIB
     - Life
     - Humans

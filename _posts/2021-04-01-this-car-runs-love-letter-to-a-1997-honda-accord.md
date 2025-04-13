@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=406'
 permalink: /this-car-runs-love-letter-to-a-1997-honda-accord/
-categories:
+tags:
     - Life
     - Richmond
 ---

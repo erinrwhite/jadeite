@@ -8,7 +8,7 @@ guid: '{{site.baseurl}}?p=539'
 permalink: /observations-on-working-at-scale/
 classic-editor-remember:
     - classic-editor
-categories:
+tags:
     - 'Civic Tech'
     - Providence
     - Tech

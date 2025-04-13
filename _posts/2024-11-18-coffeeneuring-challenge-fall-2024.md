@@ -11,7 +11,7 @@ classic-editor-remember:
 full_width_featured_image_disabled:
     - '1'
 image: /wp-content/uploads/2024/11/ripper-riverside.png
-categories:
+tags:
     - Bikes
     - Life
     - Providence

@@ -8,7 +8,7 @@ guid: '{{site.baseurl}}?p=507'
 permalink: /ia-interview/
 classic-editor-remember:
     - classic-editor
-categories:
+tags:
     - 'Civic Tech'
     - Libraries
     - Providence
