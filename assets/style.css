@@ -8,10 +8,10 @@
     --text-color: #444; 
     --link-color: blue; 
     --visited-color: purple; 
-    --main-color: #; 
+    --main-color: #ffccoo; 
     --code-background-color: #ccc;
     --code-color: #222; 
-    --blockquote-color: apricot;
+    --blockquote-color: #ffcc00;
 }
 
 @media (prefers-color-scheme: dark) {
