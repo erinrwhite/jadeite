@@ -33,7 +33,7 @@ I’m also the interim digital collections librarian
 
 ### Interim math
 
-![Interim math: 1/4 of my time times 1/2 of my ass equals one eighth of a full time person]({{site.baseurl}}assets/2013-2024//2022/06/Bellwether-2-Interim-math.png)Shoutout to everyone who’s holding an interim appointment or who has absorbed a vacancy in your area. I know many of y’all have been doing this math too. The past year in particular brought so much hardship across all vectors of our lives, and at work that likely included layoffs, retirements, health-related departures, and other stark changes.
+![Interim math: 1/4 of my time times 1/2 of my ass equals one eighth of a full time person]({{site.baseurl}}/assets//2013-2024//2022/06/Bellwether-2-Interim-math.png)Shoutout to everyone who’s holding an interim appointment or who has absorbed a vacancy in your area. I know many of y’all have been doing this math too. The past year in particular brought so much hardship across all vectors of our lives, and at work that likely included layoffs, retirements, health-related departures, and other stark changes.
 
 I’m in a relatively **good** position – I get to say how much of this work has to get done. Still, it turns out half-assing a job for a quarter of my time means projects move really slowly or not at all. *\[2023 editor’s note: “half-assing” was sarcastically used here to mean, “Learning how to do a job I had not done before.” A reminder that we need to be kind to ourselves and others when we take on new roles!\]*
 
@@ -41,7 +41,7 @@ I’m in a relatively **good** position – I get to say how much of this work h
 
 I’m not sharing this with you to complain. It’s not an indictment of my employer. I share it because I think this is where we’re headed.
 
-![Definition of bellwether: the leading sheep of a flock with a bell around its neck; or, an indicator or predictor of something]({{site.baseurl}}assets/2013-2024//2022/06/Bellwether-3-definition.png)
+![Definition of bellwether: the leading sheep of a flock with a bell around its neck; or, an indicator or predictor of something]({{site.baseurl}}/assets//2013-2024//2022/06/Bellwether-3-definition.png)
 
 The early 2000s were a boom time for mass digitization and library investment in digital collections. It was a time of huge growth and excitement in digital libraries.
 
@@ -63,7 +63,7 @@ The bottom line is that many people don’t use services, even ones that are “
 
 ### The most beautiful bus stop
 
-![Photo of a wet road going down a hill next to a beautiful terraced lawn. A tiny bus stop sign stands next to a power pole.]({{site.baseurl}}assets/2013-2024//2022/06/Bellwether-5-beautiful-bus-stop-1024x668.jpg)Here is a picture of the most beautiful bus stop in Richmond, VA. It’s my bus stop.
+![Photo of a wet road going down a hill next to a beautiful terraced lawn. A tiny bus stop sign stands next to a power pole.]({{site.baseurl}}/assets//2013-2024//2022/06/Bellwether-5-beautiful-bus-stop-1024x668.jpg)Here is a picture of the most beautiful bus stop in Richmond, VA. It’s my bus stop.
 
 *\[2023 editor’s note: original slide text noted that there is no sidewalk, no bench, no shelter, and the stop is only serviced (unreliably) once per hour. This is still true.\]*
 

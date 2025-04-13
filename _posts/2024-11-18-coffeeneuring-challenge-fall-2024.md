@@ -21,7 +21,7 @@ After a long break from participating in a bike challenge, I’m returning this 
 
 ## WTF is coffeeneuring?
 
-<div class="wp-caption alignright" id="attachment_567" style="width: 235px">![Closeup of a cortado in a glass, sitting on a wooden table. A brick building is in the background.]({{site.baseurl}}/_assets/2013-2024//2024/11/cortado-borealis-225x300.png)A cortado at Borealis in Riverside.
+<div class="wp-caption alignright" id="attachment_567" style="width: 235px">![Closeup of a cortado in a glass, sitting on a wooden table. A brick building is in the background.]({{site.baseurl}}/assets//2013-2024//2024/11/cortado-borealis-225x300.png)A cortado at Borealis in Riverside.
 
 </div>A riff on randonneuring, coffeeneuring is, at its core, riding your bike to drink coffee. This year’s challenge was as follows:
 
@@ -40,7 +40,7 @@ I’ve done similar challenges in past years:
 
 ## The rides
 
-<div class="wp-caption aligncenter" id="attachment_575" style="width: 610px">![The front of a light blue cross-bike leaned against a tree, across the street from a low-slung city cafe.]({{site.baseurl}}/_assets/2013-2024//2024/11/city-ripper.png)Lil’ City Ripper.
+<div class="wp-caption aligncenter" id="attachment_575" style="width: 610px">![The front of a light blue cross-bike leaned against a tree, across the street from a low-slung city cafe.]({{site.baseurl}}/assets//2013-2024//2024/11/city-ripper.png)Lil’ City Ripper.
 
 </div>1. **October 5: over/under long way to a short way home.** 12.8 miles on the City Ripper. Out to India point and back to New Harvest coffee for a maple pecan cold brew. Looooots of meandering, wandering, going over and under bridges.
 2. **October 6: west end winder.** 8.5 miles on the Ripper and my first time at Long Live Beerworks. I enjoyed a lil’ taster of their Oktoberfest.
@@ -58,6 +58,6 @@ I’ve done similar challenges in past years:
 
 See you next year.
 
-<div class="wp-caption aligncenter" id="attachment_568" style="width: 610px">![The handlebars of a ebike in the foreground, and a freshly-paved bike path stretching before me.]({{site.baseurl}}/_assets/2013-2024//2024/11/ebike-new-woony.png)Progress on the Woony bike path.
+<div class="wp-caption aligncenter" id="attachment_568" style="width: 610px">![The handlebars of a ebike in the foreground, and a freshly-paved bike path stretching before me.]({{site.baseurl}}/assets//2013-2024//2024/11/ebike-new-woony.png)Progress on the Woony bike path.
 
 </div>

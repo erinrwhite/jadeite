@@ -21,7 +21,7 @@ This project’s goal was to help connect “hunters” to known databases and h
 
 Since the dawn of library-web time, visitors to our [databases landing page](https://apps.library.vcu.edu/dblist/) were presented with an A to Z list of hundreds of databases with a list of subject categories tucked away in the sidebar.
 
-[![new db list]({{site.baseurl}}assets/2013-2024//2015/01/Screen-Shot-2015-01-06-at-4.07.58-PM-300x266.png)](https://apps.library.vcu.edu/dblist/)The new design for the databases list presents a few ways to get at databases, in this order:
+[![new db list]({{site.baseurl}}/assets//2013-2024//2015/01/Screen-Shot-2015-01-06-at-4.07.58-PM-300x266.png)](https://apps.library.vcu.edu/dblist/)The new design for the databases list presents a few ways to get at databases, in this order:
 
 **For the hunters:**
 
@@ -39,7 +39,7 @@ And, on [database subject pages](https://apps.library.vcu.edu/dblist/category/77
 
 Building on the search feature in the new database list, we created an AJAX Google Adwords-esque add-on to our search engine (Ex Libris’ Primo) that recommends databases or research guides results based on the search query. For longer, more complex queries, no suggestions are shown.
 
-![suggested results]({{site.baseurl}}assets/2013-2024//2015/01/Screen-Shot-2015-01-06-at-4.19.18-PM-300x259.png)Try these queries:
+![suggested results]({{site.baseurl}}/assets//2013-2024//2015/01/Screen-Shot-2015-01-06-at-4.19.18-PM-300x259.png)Try these queries:
 
 - [cinahl](http://search.library.vcu.edu/primo_library/libweb/action/dlSearch.do?institution=VCU&vid=VCU&search_scope=all_scope&dym=true&query=any,contains,cinahl)
 - [dissertations](http://search.library.vcu.edu/primo_library/libweb/action/dlSearch.do?institution=VCU&vid=VCU&search_scope=all_scope&dym=true&query=any,contains,dissertations)
@@ -57,11 +57,11 @@ Included in the suggested results:
 
 To highlight the changes to the databases page, we also made some changes to how we are linking to it. Previously, our homepage search box linked to popular databases, the alphabet characters A through Z, our subject list, and “all”.
 
-![old A-Z links]({{site.baseurl}}assets/2013-2024//2015/01/Screen-Shot-2015-01-06-at-12.51.22-PM-300x156.png)
+![old A-Z links]({{site.baseurl}}/assets//2013-2024//2015/01/Screen-Shot-2015-01-06-at-12.51.22-PM-300x156.png)
 
 The intent of the new design is to surface the new databases list landing page and wean users off the A-Z interaction pattern in lieu of search.
 
-![Screen Shot 2015-01-06 at 12.50.20 PM]({{site.baseurl}}assets/2013-2024//2015/01/Screen-Shot-2015-01-06-at-12.50.20-PM.png)
+![Screen Shot 2015-01-06 at 12.50.20 PM]({{site.baseurl}}/assets//2013-2024//2015/01/Screen-Shot-2015-01-06-at-12.50.20-PM.png)
 
 The top three databases are still on the list both for easy access and to provide “information scent” to clue beginner researchers in on what a database might be.
 

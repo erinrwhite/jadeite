@@ -1,10 +1,7 @@
-# Tech notes
-
-Intro paragraph.
-
+Intro paragraph
 ## posts
 <ul>
   {% for p in site.posts %}
-	 <li><a href="{{site.baseurl}}/{{ p.url }}">{{ p.title }}</a></li>
+	 <li>{{p.date}} - <a href="{{site.baseurl}}/{{ p.url }}">{{ p.title }}</a></li>
   {% endfor %} 
 </ul>

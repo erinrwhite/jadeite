@@ -23,13 +23,13 @@ Note that **mobile is 9.2% of web traffic**. To round some numbers, 58% of those
 
 To give context, about 7.2% of our overall traffic came from the Firefox browser. So we have more mobile users than Firefox users.
 
-[![2015 mobile device breakdown]({{site.baseurl}}assets/2013-2024//2015/09/2015-devices.png)]({{site.baseurl}}assets/2013-2024//2015/09/2015-devices.png)
+[![2015 mobile device breakdown]({{site.baseurl}}/assets//2013-2024//2015/09/2015-devices.png)]({{site.baseurl}}/assets//2013-2024//2015/09/2015-devices.png)
 
 ## 2014
 
 Mobile jumped to 9% of all traffic this year. This is partially due to our retiring our mobile-only website in lieu of a responsive web design. As with the other years, at least 2/3 of the mobile traffic is an iOS device.
 
-[![2014 mobile device breakdown]({{site.baseurl}}assets/2013-2024//2015/09/2014-devices.png)]({{site.baseurl}}assets/2013-2024//2015/09/2014-devices.png)
+[![2014 mobile device breakdown]({{site.baseurl}}/assets//2013-2024//2015/09/2014-devices.png)]({{site.baseurl}}/assets//2013-2024//2015/09/2014-devices.png)
 
 ## 2013
 
@@ -37,7 +37,7 @@ Mobile was 4.7% of all traffic; iOS was 74% of all traffic; tablets, amazingly, 
 
 I have one explanation for the relatively low traffic from iPhone: at the time, we had a separate mobile website that was catching a lot of traffic for handheld devices. Most phone users were being automatically redirected there.
 
-[![2013 mobile device breakdown]({{site.baseurl}}assets/2013-2024//2015/09/2013-devices.png)]({{site.baseurl}}assets/2013-2024//2015/09/2013-devices.png)
+[![2013 mobile device breakdown]({{site.baseurl}}/assets//2013-2024//2015/09/2013-devices.png)]({{site.baseurl}}/assets//2013-2024//2015/09/2013-devices.png)
 
 ## Observations
 
@@ -47,7 +47,7 @@ Nobody’s surprised that people are using their phones to access our sites. Whe
 
 ### Types of devices
 
-[![VCU Libraries mobile circa 2011]({{site.baseurl}}assets/2013-2024//2015/09/1-mobile-homepage.png)]({{site.baseurl}}assets/2013-2024//2015/09/1-mobile-homepage.png)Though it’s impossible to test on every device, we have targeted most of our mobile development on iOS devices, which seems to be a direction we should keep going as it catches a majority of our mobile users. It would also be useful for us to look at larger-screen Android devices, though (any takers?). With virtual testing platforms like [BrowserStack](http://www.browserstack.com) at our disposal we can test on many types of devices. But we should also look at ways to test with real devices and real people.
+[![VCU Libraries mobile circa 2011]({{site.baseurl}}/assets//2013-2024//2015/09/1-mobile-homepage.png)]({{site.baseurl}}/assets//2013-2024//2015/09/1-mobile-homepage.png)Though it’s impossible to test on every device, we have targeted most of our mobile development on iOS devices, which seems to be a direction we should keep going as it catches a majority of our mobile users. It would also be useful for us to look at larger-screen Android devices, though (any takers?). With virtual testing platforms like [BrowserStack](http://www.browserstack.com) at our disposal we can test on many types of devices. But we should also look at ways to test with real devices and real people.
 
 ### Content
 

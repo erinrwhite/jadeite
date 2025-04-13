@@ -12,7 +12,7 @@ categories:
     - Richmond
 ---
 
-<div style="float: right;">[![Errandonnee 2016](https://farm2.staticflickr.com/1581/26014456471_6a8da042dc_n.jpg)](https://www.flickr.com/photos/conformerist/albums/72157666395808566 "Errandonnee 2016")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script></div>After being foiled by a long trip last year, I got the chance to attempt the [Errandonnee challenge](http://chasingmailboxes.com/2016/02/25/the-errandonnee-ride-or-run-and-get-stuff-done/) again this year (I [attempted it in 2014](https://erinrwhite.com/errandonnee-winter-bike-challenge/), too). The challenge: complete 12 errands in 12 days and ride or run a total of 30 miles between March 4-15, 2016.
+<div style="float: right;">[![Errandonnee 2016](https://farm2.staticflickr.com/1581/26014456471_6a8da042dc_n.jpg)](https://www.flickr.com/photos/conformerist/albums/72157666395808566 "Errandonnee 2016")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script></div>After being foiled by a long trip last year, I got the chance to attempt the [Errandonnee challenge](http://chasingmailboxes.com/2016/02/25/the-errandonnee-ride-or-run-and-get-stuff-done/) again this year (I [attempted it in 2014]({{site.baseurl}}errandonnee-winter-bike-challenge/), too). The challenge: complete 12 errands in 12 days and ride or run a total of 30 miles between March 4-15, 2016.
 
 Fun twist: I was in Philadelphia and bikeless from Sunday, March 6-Thursday, March 10.
 
@@ -52,4 +52,4 @@ Anyhow, here’s how the 12 errands shook out.
 
 ## Reflections
 
-A couple years ago [I reflected](https://erinrwhite.com/errandonnee-winter-bike-challenge/) on how much more this challenge got me out on my bike. This year, I was really just recording the stuff I was doing on my bike anyway. It is truly a luxury to be able to bike everywhere, and I am grateful every day for it.
+A couple years ago [I reflected]({{site.baseurl}}errandonnee-winter-bike-challenge/) on how much more this challenge got me out on my bike. This year, I was really just recording the stuff I was doing on my bike anyway. It is truly a luxury to be able to bike everywhere, and I am grateful every day for it.

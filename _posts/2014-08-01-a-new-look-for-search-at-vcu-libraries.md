@@ -21,7 +21,7 @@ This week we launched a new design for [VCU Libraries Search](http://search.libr
 
 ## Before and after
 
-[![old-search]({{site.baseurl}}assets/2013-2024//2014/07/old-search1-300x188.jpeg)]({{site.baseurl}}assets/2013-2024//2014/07/old-search1.jpeg) [![new-search]({{site.baseurl}}assets/2013-2024//2014/07/new-search-300x185.png)]({{site.baseurl}}assets/2013-2024//2014/07/new-search.png)
+[![old-search]({{site.baseurl}}/assets//2013-2024//2014/07/old-search1-300x188.jpeg)]({{site.baseurl}}/assets//2013-2024//2014/07/old-search1.jpeg) [![new-search]({{site.baseurl}}/assets//2013-2024//2014/07/new-search-300x185.png)]({{site.baseurl}}/assets//2013-2024//2014/07/new-search.png)
 
 Following our guiding principles, we:
 
@@ -40,11 +40,11 @@ Following our guiding principles, we:
 
 On the tablet view, facets are hidden and slide out into view when the “filter options” link is selected. We chose the “filter” wording based on language we saw on a few mobile-enabled shopping websites, particularly Target and Amazon. Links to more search options (new search, databases, citation linker) are collapsed into a dropdown menu. Advanced options are there, just another click away. Because the date slider does not work on touch devices, we’ve hidden it and replaced it with a text list.
 
-[![tablet]({{site.baseurl}}assets/2013-2024//2014/07/tablet-225x300.png)]({{site.baseurl}}assets/2013-2024//2014/07/tablet.png) [![tablet-search-options]({{site.baseurl}}assets/2013-2024//2014/07/tablet-search-options-225x300.png)]({{site.baseurl}}assets/2013-2024//2014/07/tablet-search-options.png) [![tablet-filter]({{site.baseurl}}assets/2013-2024//2014/07/tablet-filter-225x300.png)]({{site.baseurl}}assets/2013-2024//2014/07/tablet-filter.png)
+[![tablet]({{site.baseurl}}/assets//2013-2024//2014/07/tablet-225x300.png)]({{site.baseurl}}/assets//2013-2024//2014/07/tablet.png) [![tablet-search-options]({{site.baseurl}}/assets//2013-2024//2014/07/tablet-search-options-225x300.png)]({{site.baseurl}}/assets//2013-2024//2014/07/tablet-search-options.png) [![tablet-filter]({{site.baseurl}}/assets//2013-2024//2014/07/tablet-filter-225x300.png)]({{site.baseurl}}/assets//2013-2024//2014/07/tablet-filter.png)
 
 ### Handheld
 
-![handheld]({{site.baseurl}}assets/2013-2024//2014/07/handheld-169x300.png)For the handheld view, we removed the advanced search and citation linker options entirely. I’d like to bring them back when their layout is better optimized for smaller screens. The link to filter results is prominent, and the juicier pagination links are especially helpful on the smaller screen. Our institutional branding is still there but centered and ensmallened.
+![handheld]({{site.baseurl}}/assets//2013-2024//2014/07/handheld-169x300.png)For the handheld view, we removed the advanced search and citation linker options entirely. I’d like to bring them back when their layout is better optimized for smaller screens. The link to filter results is prominent, and the juicier pagination links are especially helpful on the smaller screen. Our institutional branding is still there but centered and ensmallened.
 
 ## Next steps
 

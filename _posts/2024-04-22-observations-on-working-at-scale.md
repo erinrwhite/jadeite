@@ -4,7 +4,7 @@ title: 'Observations on working at scale'
 date: '2024-04-22T11:59:18-04:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=539'
+guid: '{{site.baseurl}}?p=539'
 permalink: /observations-on-working-at-scale/
 classic-editor-remember:
     - classic-editor

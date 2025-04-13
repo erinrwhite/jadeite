@@ -4,7 +4,7 @@ title: 'What it means to leave'
 date: '2024-03-23T16:17:47-04:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=503'
+guid: '{{site.baseurl}}?p=503'
 permalink: /what-it-means-to-leave/
 classic-editor-remember:
     - classic-editor
@@ -18,7 +18,7 @@ categories:
     - Richmond
 ---
 
-In early 2016 I posted [What it means to stay](https://erinrwhite.com/what-it-means-to-stay/), a rumination on staying put in my job long-term, building community, and switching into marathon mode in my workplace. I continue to hear from folks that it resonates with you.
+In early 2016 I posted [What it means to stay]({{site.baseurl}}what-it-means-to-stay/), a rumination on staying put in my job long-term, building community, and switching into marathon mode in my workplace. I continue to hear from folks that it resonates with you.
 
 This post is a follow-up: supporting my wife as she exited a harmful work situation, moving nine states away, changing careers, and finding professional footing again after a long run in higher ed and academic libraries.
 
@@ -48,7 +48,7 @@ Our rapid shift to work-from-home during COVID made me realize not only that I *
 
 In the midst of intersecting global crises, a pandemic and an insurrection, I also increasingly struggled to feel that the work I was doing every day mattered. I didn’t want to climb the ladder any further, and I knew that if I wanted to leave my specialized field, it needed to happen soon.
 
-In my post eight years ago, I wrote about a friend telling me I could [“go high or go deep”](https://erinrwhite.com/what-it-means-to-stay/) in my career. Over time, I realized there was a third option: to just go.
+In my post eight years ago, I wrote about a friend telling me I could [“go high or go deep”]({{site.baseurl}}what-it-means-to-stay/) in my career. Over time, I realized there was a third option: to just go.
 
 ### Letting go of the idea of a career arc
 
@@ -74,7 +74,7 @@ Almost two years later, saying goodbye is still the part that physically aches t
 
 ### The second hardest thing was the identity crisis
 
-<div class="wp-block-image is-style-default"> <figure class="alignright is-resized">![Screenshot of tweet from Erin: "Memorializing this moment, afternoon, day 2 of a new job in the private sector after spending the first 15 years of my career in academia, staring at a blank document titled 'Professional bio - Erin' with the cursor blinking. Y'all..."](https://erinrwhite.com/wp-content/uploads/2024/03/IMG_2307.jpg)</figure></div>Skip forward to the move. My wife and I were navigating big changes together: new part of the country, new city, new home, new jobs. Along with all of these big changes came some seismic identity shifts for me as I stepped into a new workplace.
+<div class="wp-block-image is-style-default"> <figure class="alignright is-resized">![Screenshot of tweet from Erin: "Memorializing this moment, afternoon, day 2 of a new job in the private sector after spending the first 15 years of my career in academia, staring at a blank document titled 'Professional bio - Erin' with the cursor blinking. Y'all..."]({{site.baseurl}}/assets//2013-2024//2024/03/IMG_2307.jpg)</figure></div>Skip forward to the move. My wife and I were navigating big changes together: new part of the country, new city, new home, new jobs. Along with all of these big changes came some seismic identity shifts for me as I stepped into a new workplace.
 
 For years prior, I told myself I had a distinct identity separate from my career in libraries, and to some degree, I did. But my professional identity crisis after leaving higher ed was still intense and painful.
 

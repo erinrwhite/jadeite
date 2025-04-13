@@ -1,30 +1,30 @@
 :root {
-    --width: 900px;
-    --font-main: 'Verdana', monospace;
-    --font-secondary: 'Sans-serif', monospace;
+    --width: 720px;
+    --font-main: 'Verdana', sans-serif;
+    --font-secondary: 'Sans-serif', sans-serif;
     --font-scale: .95em;
     --background-color: #FFFFFF; 
-    --heading-color: #222; /* Darker roast coffee */
-    --text-color: #1F1408; /* Darker espresso */
-    --link-color: blue; /* Darker caramel */
-    --visited-color: purple; /* Darker roasted coffee beans */
-    --main-color: #96572D; /* Darker café au lait */
-    --code-background-color: #E6D7C3; /* Coffee stained paper */
-    --code-color: #2C1E15; /* Darker roast coffee */
-    --blockquote-color: #B99B6B; /* Darker café latte foam */
+    --heading-color: #222;
+    --text-color: #444; 
+    --link-color: blue; 
+    --visited-color: purple; 
+    --main-color: #; 
+    --code-background-color: #ccc;
+    --code-color: #222; 
+    --blockquote-color: apricot;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #1A1310; /* Darker espresso */
-        --heading-color: #F0DFC0; /* Lighter café latte foam */
-        --text-color: #F0E6D2; /* Lighter coffee stained paper */
-        --link-color: #E5A254; /* Lighter caramel drizzle */
-        --visited-color: #C49B76; /* Lighter roasted coffee beans */
-        --main-color: #B89470; /* Lighter mocha */
-        --code-background-color: #2C2117; /* Dark chocolate coffee */
-        --code-color: #F0DFC0; /* Lighter café latte foam */
-        --blockquote-color: #6E563D; /* Lighter coffee grounds */
+        --background-color: #111; 
+        --heading-color: #ddd; 
+        --text-color: #eee; 
+        --link-color: light-blue;
+        --visited-color: light-purple; 
+        --main-color: ; 
+        --code-background-color: #222; 
+        --code-color: #fff; 
+        --blockquote-color: #fff; 
     }
 }
 

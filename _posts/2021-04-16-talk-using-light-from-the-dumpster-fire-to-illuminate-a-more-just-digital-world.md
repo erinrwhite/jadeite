@@ -4,7 +4,7 @@ title: 'Talk: Using light from the dumpster fire to illuminate a more just digit
 date: '2021-04-16T10:27:12-04:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=381'
+guid: '{{site.baseurl}}?p=381'
 permalink: /talk-using-light-from-the-dumpster-fire-to-illuminate-a-more-just-digital-world/
 categories:
     - 'Civic Tech'
