@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=146'
 permalink: /a-new-look-for-search-at-vcu-libraries/
-categories:
+tags:
     - Libraries
     - Projects
     - UX

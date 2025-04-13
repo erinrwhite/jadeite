@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=115'
 permalink: /takeaways-from-code4lib-2014/
-categories:
+tags:
     - Conferences
     - Libraries
 ---

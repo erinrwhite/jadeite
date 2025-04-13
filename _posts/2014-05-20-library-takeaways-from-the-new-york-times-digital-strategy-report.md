@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=134'
 permalink: /library-takeaways-from-the-new-york-times-digital-strategy-report/
-categories:
+tags:
     - Libraries
     - Tech
 ---

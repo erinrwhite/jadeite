@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=212'
 permalink: /easier-access-for-databases-and-research-guides-at-vcu-libraries/
-categories:
+tags:
     - Libraries
     - Projects
     - UX

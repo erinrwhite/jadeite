@@ -10,7 +10,7 @@ defaults:
   -
     scope:
       path: ""
-      type: _my_tags
+      type: my_tags
     values:
       layout: tagged
 

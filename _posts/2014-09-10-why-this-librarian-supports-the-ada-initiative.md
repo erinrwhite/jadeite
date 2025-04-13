@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=167'
 permalink: /why-this-librarian-supports-the-ada-initiative/
-categories:
+tags:
     - Libraries
     - Humans
     - Tech

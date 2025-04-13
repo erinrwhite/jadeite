@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=196'
 permalink: /gifs-mas-in-new-york/
-categories:
+tags:
     - Life
     - Projects
 ---

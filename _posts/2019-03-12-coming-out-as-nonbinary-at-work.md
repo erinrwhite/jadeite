@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=315'
 permalink: /coming-out-as-nonbinary-at-work/
-categories:
+tags:
     - DEIB
     - Libraries
     - Life

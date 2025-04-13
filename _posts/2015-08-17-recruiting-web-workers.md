@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=249'
 permalink: /recruiting-web-workers/
-categories:
+tags:
     - Libraries
     - Humans
     - Tech

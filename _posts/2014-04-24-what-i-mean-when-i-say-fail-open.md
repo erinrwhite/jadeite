@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=120'
 permalink: /what-i-mean-when-i-say-fail-open/
-categories:
+tags:
     - Life
     - Humans
     - Richmond

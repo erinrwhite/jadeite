@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://blog.erinrwhite.com/?p=21'
 permalink: /diy-standing-desk/
-categories:
+tags:
     - Libraries
 ---
 

@@ -11,7 +11,7 @@ full_width_featured_image_disabled:
 classic-editor-remember:
     - classic-editor
 image: /wp-content/uploads/2016/02/erin_house.jpg
-categories:
+tags:
     - Libraries
     - Life
     - Richmond

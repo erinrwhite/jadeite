@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=346'
 permalink: /trans-inclusive-design-at-a-list-apart/
-categories:
+tags:
     - Libraries
     - Tech
     - UX

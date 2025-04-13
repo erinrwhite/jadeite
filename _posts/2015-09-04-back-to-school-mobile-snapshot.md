@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=254'
 permalink: /back-to-school-mobile-snapshot/
-categories:
+tags:
     - Libraries
     - Projects
     - UX

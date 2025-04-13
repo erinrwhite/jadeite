@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=295'
 permalink: /2016-errandonnee-challenge-handled-it/
-categories:
+tags:
     - Bikes
     - Life
     - Richmond

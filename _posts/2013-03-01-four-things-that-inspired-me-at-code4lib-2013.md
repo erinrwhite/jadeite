@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://blog.erinrwhite.com/?p=6'
 permalink: /fou-things-that-inspired-me-at-code4lib-2013/
-categories:
+tags:
     - Conferences
     - Tech
     - Libraries

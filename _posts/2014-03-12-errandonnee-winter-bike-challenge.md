@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=79'
 permalink: /errandonnee-winter-bike-challenge/
-categories:
+tags:
     - Bikes
     - Richmond
 ---

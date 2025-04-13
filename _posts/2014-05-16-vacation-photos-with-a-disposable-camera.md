@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=126'
 permalink: /vacation-photos-with-a-disposable-camera/
-categories:
+tags:
     - Bikes
     - Life
     - Projects

@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=64'
 permalink: /thirteen-small-ideas-from-code4lib-2013/
-categories:
+tags:
     - Libraries
     - Conferences
 ---
