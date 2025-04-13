@@ -1,16 +1,9 @@
 ---
-id: 284
 title: 'What it means to stay'
 date: '2016-02-11T11:43:23-05:00'
 author: erinrwhite
 layout: post
-guid: 'http://erinrwhite.com/?p=284'
 permalink: /what-it-means-to-stay/
-full_width_featured_image_disabled:
-    - '1'
-classic-editor-remember:
-    - classic-editor
-image: /wp-content/uploads/2016/02/erin_house.jpg
 tags: [libraries life richmond]
 ---
 
