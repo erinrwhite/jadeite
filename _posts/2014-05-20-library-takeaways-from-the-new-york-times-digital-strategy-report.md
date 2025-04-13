@@ -8,6 +8,7 @@ guid: 'http://erinrwhite.com/?p=134'
 permalink: /library-takeaways-from-the-new-york-times-digital-strategy-report/
 categories:
     - Libraries
+    - Tech
 ---
 
 *Cross-posted from VCU Libraries’ intranet with minor edits.*

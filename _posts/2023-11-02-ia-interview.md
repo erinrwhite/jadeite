@@ -4,7 +4,7 @@ title: 'Interview: Practicing information architecture'
 date: '2023-11-02T12:00:09-04:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=507'
+guid: '{{site.baseurl}}?p=507'
 permalink: /ia-interview/
 classic-editor-remember:
     - classic-editor
@@ -13,6 +13,7 @@ categories:
     - Libraries
     - Providence
     - Tech
+    - IA
 ---
 
 This spring, I had the joy of reconnecting with my first professional colleague, manager and mentor [Susan Teague Rector](https://srector.tribock.co/), who gave me some really excellent guidance during my job hunt. She’s teaching an Information Architecture class at the [University of Tennessee’s iSchool](https://sis.utk.edu/) this fall and reached to interview me for her class. I was excited for the chance to talk about my new gig as a full-time information architect working in the civic tech space.

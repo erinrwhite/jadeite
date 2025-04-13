@@ -4,11 +4,12 @@ title: 'I’m New Here: Human-centered Onboarding'
 date: '2023-01-20T16:55:02-05:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=462'
+guid: '{{site.baseurl}}?p=462'
 permalink: /im-new-here-human-centered-onboarding/
 categories:
     - DEIB
     - Life
+    - Humans
 ---
 
 *I wrote this post for my company’s November 2022 newsletter.*

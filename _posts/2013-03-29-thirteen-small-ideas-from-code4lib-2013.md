@@ -8,9 +8,10 @@ guid: 'http://erinrwhite.com/?p=64'
 permalink: /thirteen-small-ideas-from-code4lib-2013/
 categories:
     - Libraries
+    - Conferences
 ---
 
-If you made it through the [tome that was the four big ideas](https://erinrwhite.com/fou-things-that-inspired-me-at-code4lib-2013/), you’ll enjoy this list of smaller ideas from the Code4Lib conference.
+If you made it through the [tome that was the four big ideas]({{site.baseurl}}fou-things-that-inspired-me-at-code4lib-2013/), you’ll enjoy this list of smaller ideas from the Code4Lib conference.
 
 <div>1. [EasyArticle at Brown U](http://lawlesst.github.com/notebook/delivery.html)<span style="font-size: 1rem; line-height: 1;"> – Among other things, this app allows people to request items through ILL/document delivery with the click of a button. Users never see the ILLiad form.</span>
 2. [Article problem reporting at UMich](http://umichlib.qualtrics.com/SE/?SID=SV_6sCmb90uM7NElLK&LinkModel=OpenURL&DocumentID=http%3A//www.lib.umich.edu/articles/details/FETCH-doaj_primary_oai_doaj_articles_edbdfc4d44d289ddc803563bb45adcb51%3Fctx_ver%3DZ39.88-2004%26ctx_enc%3Dinfo%253Aofi%252Fenc%253AUTF-8%26rfr_id%3Dinfo%3Asid/summon.serialssolutions.com%26rft_val_fmt%3Dinfo%3Aofi/fmt%3Akev%3Amtx%3Ajournal%26rft.genre%3Darticle%26rft.atitle%3DCode4Lib%2B2012%2BConference%2BReport%26rft.jtitle%3DCode4Lib%2BJournal%26rft.au%3DAmy%2BUnger%26rft.date%3D2012-06-25%26rft.pub%3DCode4Lib%26rft.issn%3D1940-5758%26rft.eissn%3D1940-5758%26rft.issue%3D17%26rft.externalDBID%3DDOA%26rft.externalDocID%3Doai_doaj_articles_edbdfc4d44d289ddc803563bb45adcb5)<span style="font-size: 1rem; line-height: 1;"> – similar to our e-journal problem report. Helps staff figure out problems faster.</span>

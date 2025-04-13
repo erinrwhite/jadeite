@@ -4,14 +4,14 @@ title: 'This car runs: Love letter to a 1997 Honda Accord'
 date: '2021-04-01T16:36:52-04:00'
 author: erinrwhite
 layout: post
-guid: 'https://erinrwhite.com/?p=406'
+guid: '{{site.baseurl}}?p=406'
 permalink: /this-car-runs-love-letter-to-a-1997-honda-accord/
 categories:
     - Life
     - Richmond
 ---
 
-![Close-up photos of a very well-loved dark green 1997 Honda Accord](https://erinrwhite.com/wp-content/uploads/2021/04/1997-accord-shots.jpg)
+![Close-up photos of a very well-loved dark green 1997 Honda Accord]({{site.baseurl}}assets/2013-2024//2021/04/1997-accord-shots.jpg)
 
 *Three years ago I sold my 1997 Honda Accord DX. Here’s the Craigslist ad love letter I wrote to it.*
 

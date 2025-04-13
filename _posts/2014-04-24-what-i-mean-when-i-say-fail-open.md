@@ -8,6 +8,7 @@ guid: 'http://erinrwhite.com/?p=120'
 permalink: /what-i-mean-when-i-say-fail-open/
 categories:
     - Life
+    - Humans
     - Richmond
 ---
 

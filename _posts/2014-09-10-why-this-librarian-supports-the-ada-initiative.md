@@ -8,6 +8,8 @@ guid: 'http://erinrwhite.com/?p=167'
 permalink: /why-this-librarian-supports-the-ada-initiative/
 categories:
     - Libraries
+    - Humans
+    - Tech
 ---
 
 This week the [Ada Initiative](http://adainitiative.org/) is announcing a [fundraising drive just for the library community](https://supportada.org/?campaign=libraries). I’m pitching in, and I hope you will, too.
