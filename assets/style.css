@@ -21,7 +21,7 @@
         --text-color: #eee; 
         --link-color: lightblue;
         --visited-color: plum; 
-        --main-color: ; 
+        --main-color: #ffcc00; 
         --code-background-color: #222; 
         --code-color: #fff; 
         --blockquote-color: #fff; 
@@ -61,14 +61,14 @@ a {
 }
 
 a:hover {
-    color: navy;
+    color: var(--text-color);
     text-decoration: none;
 }
 
 header {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 3px dotted #232333;
+    border-bottom: 3px dotted #fc0;
 }
 
 nav a {
@@ -128,8 +128,9 @@ footer {
     text-align: center;
 }
 
-footer > span:has(a[href="https://bearblog.dev"]) {
-    display: none;
+footer .footer-links li {
+    display: inline;
+    list-style-type: square;
 }
 
 .title:hover {
@@ -190,10 +191,6 @@ td {
     font-size: 1em;
 }
 
-/* external link marker */
-a[href^="http"]:where(:not([href*="knhash.in/"])):not(:has(img))::after {
-    content: "↗"
-}
 
 /* Form elements */
 input, button, textarea, select {
