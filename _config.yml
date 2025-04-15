@@ -18,4 +18,5 @@ defaults:
 Blog: /posts
 
 links:
-  # Resume: /assets/resume.pdf
+  Colophon: /colophon
+  About: /about
