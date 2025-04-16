@@ -89,11 +89,13 @@ main {
 }
 
 main ul.post-tags {
-    display: inline;
     list-style-type: square;
     padding-left: 0;
 }
 
+main ul li {    
+    display: inline;
+}
 main ul.post-tags li a::before {
   content: &#9630;;
 
