@@ -88,6 +88,11 @@ main {
     line-height: 1.6;
 }
 
+main ul.post-tags {
+    display: inline;
+    list-style-type: square;
+}
+
 table {
     width: 100%;
 }
@@ -127,9 +132,11 @@ footer {
     text-align: center;
 }
 
+footer .footer-links ul {
+    list-style-type: square;
+}
 footer .footer-links li {
     display: inline;
-    list-style-type: square;
 }
 
 .title:hover {

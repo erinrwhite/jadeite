@@ -10,7 +10,7 @@ layout: compress
 
     <h1>{{ page.title }}</h1>
     <p><em>{{ page.date | date: "%b %d, %Y" }}</em></p>
-    <ul>
+    <ul class="post-tags">
         {% for tag in page.tags %}
         <li><a href="{{ 'tag/' | relative_url }}{{ tag }}">{{ tag }}</a></li>
         {% endfor %}
