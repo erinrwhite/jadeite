@@ -57,12 +57,11 @@ a {
     font-family: var(--font-main);
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 3px solid var(--main-color);
 }
 
 a:hover {
     color: var(--text-color);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 header {
