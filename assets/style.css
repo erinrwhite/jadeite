@@ -67,7 +67,7 @@ a:hover {
 header {
     margin-bottom: 20px;
     padding-bottom: 20px;
-    border-bottom: 3px dotted #fc0;
+    border-bottom: 3px dotted var(--main-color);
 }
 
 nav a {
@@ -142,16 +142,6 @@ footer {
     text-align: center;
 }
 
-footer .footer-links ul {
-    list-style-type: square;
-}
-footer .footer-links ul li {
-    display: inline;
-}
-
-footer .footer-links li a::before {
-  content: &#9630;;
-}
 
 .title:hover {
     text-decoration: none;
