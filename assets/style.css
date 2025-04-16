@@ -88,9 +88,13 @@ main {
     line-height: 1.6;
 }
 
+main h1 { line-height: 1.45; }
+
 main ul.post-tags {
     list-style-type: square;
     padding-left: 0;
+    padding-bottom:10px;
+    border-bottom:1px solid var(--code-background-color);
 }
 
 main ul.post-tags li {    
