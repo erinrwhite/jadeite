@@ -4,8 +4,7 @@ title: 'Four big ideas from Code4Lib 2013'
 date: '2013-03-01T15:08:05-05:00'
 author: erinrwhite
 layout: post
-guid: 'http://blog.erinrwhite.com/?p=6'
-permalink: /fou-things-that-inspired-me-at-code4lib-2013/
+permalink: /four-things-that-inspired-me-at-code4lib-2013/
 tags: libraries tech
 ---
 
