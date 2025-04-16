@@ -93,7 +93,7 @@ main ul.post-tags {
     padding-left: 0;
 }
 
-main ul li {    
+main ul.post-tags li {    
     display: inline;
 }
 main ul.post-tags li a::before {
