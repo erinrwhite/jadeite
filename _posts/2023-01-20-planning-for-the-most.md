@@ -59,7 +59,7 @@ The bottom line is that many people don’t use services, even ones that are “
 
 ![Photo of a wet road going down a hill next to a beautiful terraced lawn. A tiny bus stop sign stands next to a power pole.]({{site.baseurl}}/assets//2013-2024//2022/06/Bellwether-5-beautiful-bus-stop-1024x668.jpg)
 
-Here is a picture of the most beautiful bus stop in Richmond, VA. It’s my bus stop.
+	Here is a picture of the most beautiful bus stop in Richmond, VA. It’s my bus stop.
 
 *\[2023 editor’s note: original slide text noted that there is no sidewalk, no bench, no shelter, and the stop is only serviced (unreliably) once per hour. This is still true.\]*
 

@@ -94,6 +94,9 @@ main ul.post-tags {
     padding-left: 0;
 }
 
+main ul.post-tags li a::before {
+  content: &#9630;;
+
 table {
     width: 100%;
 }
@@ -138,6 +141,10 @@ footer .footer-links ul {
 }
 footer .footer-links li {
     display: inline;
+}
+
+footer .footer-links li a::before {
+  content: &#9630;;
 }
 
 .title:hover {
