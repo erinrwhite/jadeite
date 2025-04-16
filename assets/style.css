@@ -145,7 +145,7 @@ footer {
 footer .footer-links ul {
     list-style-type: square;
 }
-footer .footer-links li {
+footer .footer-links ul li {
     display: inline;
 }
 
