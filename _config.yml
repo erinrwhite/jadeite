@@ -16,8 +16,6 @@ defaults:
     values:
       layout: tagged
 
-Blog: /posts
-
 links:
-  Colophon: /colophon
   About: /about
+  Colophon: /colophon
