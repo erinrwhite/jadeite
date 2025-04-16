@@ -101,7 +101,7 @@ main ul.post-tags li {
     display: inline;
 }
 main ul.post-tags li a::before {
-  content: &#9630;;
+  content: &#9630;
 
 table {
     width: 100%;
@@ -177,7 +177,7 @@ ul.blog-posts li {
     margin-bottom: 10px;
 }
 
-i time {
+ul.blog-posts i time {
     font-style: normal;
     opacity: 0.7;
 }
