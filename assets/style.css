@@ -70,6 +70,8 @@ header {
     border-bottom: 3px dotted var(--main-color);
 }
 
+header p.title a { color: var(--heading-color); font-size: 1.35em; }
+
 nav a {
     margin-right: 8px;
 }
@@ -132,17 +134,12 @@ blockquote {
     font-style: italic;
 }
 
-header {
-  border-bottom: 3px dotted var(--main-color);
-}
-
 footer {
     margin-top: 20px;
     padding: 25px 0;
     text-align: center;
 }
 
-header p.title { font-size: 1.35em; }
 
 h1 {
     font-size: 2em;
