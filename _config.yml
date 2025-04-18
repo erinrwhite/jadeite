@@ -1,5 +1,6 @@
 remote_theme: knhash/jekyllBear
 title: "Erin White - UX, IA, a11y, etc etc"
+name: site.title
 
 
 collections:
