@@ -8,6 +8,9 @@ collections:
     permalink: /tag/:slug/
 
 
+gems:
+  - jekyll-feed
+
 feed:
   tags: true
 
