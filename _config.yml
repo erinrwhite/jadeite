@@ -8,6 +8,9 @@ collections:
     permalink: /tag/:slug/
 
 
+feed:
+  tags: true
+
 defaults:
   -
     scope:
