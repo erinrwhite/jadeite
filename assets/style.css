@@ -143,13 +143,14 @@ footer {
     text-align: center;
 }
 
+header span.title { font-size: 1.35em; }
 
-.title:hover {
+header span.title a:hover {
     text-decoration: none;
 }
 
-.title h1 {
-    font-size: 1.5em;
+h1 {
+    font-size: 2em;
 }
 
 .inline {
