@@ -87,8 +87,7 @@ button {
 main {
     line-height: 1.6;
     padding-bottom: 20px;
-    border-botom: 3px dotted var(--main-color);
-
+    border-bottom: 3px dotted var(--main-color);
 }
 
 main h1 { line-height: 1.45; }
@@ -143,11 +142,7 @@ footer {
     text-align: center;
 }
 
-header span.title { font-size: 1.35em; }
-
-header span.title a:hover {
-    text-decoration: none;
-}
+header p.title { font-size: 1.35em; }
 
 h1 {
     font-size: 2em;
