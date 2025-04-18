@@ -173,8 +173,7 @@ ul.blog-posts li {
     display: flex;
     margin-bottom: 10px;
 }
-
-ul.blog-posts i time {
+ul.blog-posts time {
     font-style: normal;
     opacity: 0.7;
 }

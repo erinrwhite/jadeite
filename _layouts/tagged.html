@@ -22,11 +22,9 @@
         {% unless post == previous %}
         <li>
             <span>
-                <i>
                     <time>
                         {{ post.date | date: "%Y-%m-%d" }}
                     </time>
-                </i>
             </span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
