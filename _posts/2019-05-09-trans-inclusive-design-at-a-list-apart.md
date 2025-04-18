@@ -6,7 +6,7 @@ author: erinrwhite
 layout: post
 guid: 'http://erinrwhite.com/?p=346'
 permalink: /trans-inclusive-design-at-a-list-apart/
-tags: libraries tech UX IA trans
+tags: libraries tech ux ia trans
 ---
 
 I am thrilled and terrified to say that I have an article on [Trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/ "Trans-inclusive design") out on A List Apart today.
