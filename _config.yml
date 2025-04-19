@@ -13,7 +13,6 @@ plugins:
 feed:
   path: /feed
   tags: true
-    path: /:slug/feed
 
 defaults:
   -
