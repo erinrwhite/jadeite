@@ -10,7 +10,7 @@
     <h1>
         Posts tagged {{ page.slug }}
     </h1>
-    <p><a href="/feed/by_tag/{{ page.slug }}.xml"><img src="assets/rss-icon.png" alt="RSS"> Subscribe to the {{ page.slug }} RSS feed</a></p>
+    <p><a href="/feed/by_tag/{{ page.slug }}.xml"><img src="/assets/rss-icon.png" alt="RSS"> Subscribe to the {{ page.slug }} RSS feed</a></p>
 
     <ul class="blog-posts">
         {% assign post_list = '' | split: ',' %}
