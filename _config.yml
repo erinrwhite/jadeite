@@ -7,15 +7,13 @@ collections:
     output: true
     permalink: /tag/:slug/
 
-
-gems:
-  - jekyll-feed
-
 plugins:
   - jekyll-feed
 
 feed:
+  path: /feed
   tags: true
+    path: :slug/feed
 
 defaults:
   -
