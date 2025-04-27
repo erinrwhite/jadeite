@@ -81,6 +81,8 @@ b {
     color: var(--heading-color);
 }
 
+strong em { font-weight: normal; font-style:normal; background: var(--main-color); padding: 0.2em; }
+
 button {
     margin: 0;
     cursor: pointer;

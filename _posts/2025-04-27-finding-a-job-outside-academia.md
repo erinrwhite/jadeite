@@ -175,11 +175,7 @@ Here are a few terms that might help in translating your skills for a new contex
 |Research|Discovery|“Do discovery on X Y Z” ⇒ Do research on it.|
 |Grantwriting/grant-seeking|Business development/BD||
 
-> [!important] I’d really like to expand this section! Please
-> 
-> write me with any additions.
-
-- Post on LinkedIn: Moving from government to private sector
+ℹ️ I’d really like to expand this section! Please write me with any additions.
 
 ### Prep your resume
 
