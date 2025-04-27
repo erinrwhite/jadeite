@@ -111,8 +111,8 @@ table {
     border-spacing: 0;
 }
 
-thead {
-    background-color: #fco;
+th {
+    background: var(--main-color);
 }
 
 td, th {
@@ -194,17 +194,6 @@ ul.blog-posts li span {
 ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
-
-table {
-    border-spacing: 0;
-}
-
-th,
-td {
-    padding: 6px 13px;
-    font-size: 1em;
-}
-
 
 /* Form elements */
 input, button, textarea, select {
