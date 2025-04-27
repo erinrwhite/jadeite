@@ -7,11 +7,9 @@ tags:
   - libraries
 layout: post
 ---
-> [!important] This page is in perpetual draft. Last updated April 2025.
+*This page has been online in some form or another since 2023 and it now making its appearance on my dot-com. This page is in perpetual draft. [Last updated April, 2025](#change-log).*
 
-> [!important] **Jump to:**
-> 
-> [[Finding a job outside of academia]], [[Finding a job outside of academia]]
+**Jump to:** [Jargon translator](#jargon-translator), [Transferable skills](#transferable-skills)
 
 ## Prepare to leave
 
@@ -78,7 +76,7 @@ Dust off your LinkedIn account. Start searching for people who are talking about
 
 By looking at job ads you can learn what types of words/phrases people are using to describe certain skills. Refine your search as you find new keywords in job postings.
 
-==All job ads are aspirational==**.** You won’t have 100% of the qualifications for every job. If you have half the qualifications, apply.
+***All job ads are aspirational*****.** You won’t have 100% of the qualifications for every job. If you have half the qualifications, apply.
 
 **Resources:**
 
@@ -110,15 +108,17 @@ LinkedIn is weirdly very important outside of higher ed, especially in the priva
 - Model your profile based on what others are doing - lurk and find folks whose profiles look good to you and note how they are using LinkedIn. Make any changes to your profile that feel authentic for you.
 - Make/strengthen connections - reach out to folks in your existing network and add new people that you know. LinkedIn is extremely creepy and knows who you know. Just add ‘em.
 - Ask for help - either as a post, or through messaging folks. Most folks are very eager to add connections, exchange messages, share links to jobs, offer referrals, and share information about their work.
-- ==[Weak social ties are crucial for finding jobs](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online)== - so don’t be afraid to reach out to acquaintances on LinkedIn.
+- ***[Weak social ties are crucial for finding jobs](https://mitsloan.mit.edu/ideas-made-to-matter/study-weak-ties-make-a-difference-finding-a-job-online)*** - so don’t be afraid to reach out to acquaintances on LinkedIn.
 
 ## Apply
 
 ### Gird your loins
 
-The job market, especially in UX and adjacent fields in 2024, is awful 🙂. No matter what field you’re in, though, ==be prepared to be ghosted at any point in the application process.== Don’t take it personally.
+The job market, especially in UX and adjacent fields in 2024, is awful 🙂. No matter what field you’re in, though, ***be prepared to be ghosted at any point in the application process.*** Don’t take it personally.
 
-### Your skills are transferable!
+### Transferable skills
+
+Your skills are transferable!
 
 Here are some transferable skills I identified for myself:
 
@@ -184,7 +184,7 @@ Here are a few terms that might help in translating your skills for a new contex
 
 ### Prep your resume
 
-- [Great advice from Alison Green on this.](https://www.thecut.com/article/how-to-make-a-resume.html) Big note: ==your resume is a marketing document.==
+- [Great advice from Alison Green on this.](https://www.thecut.com/article/how-to-make-a-resume.html) Big note: ***your resume is a marketing document.***
 - Your resume should be 1-2 pages
 - Make it easily skimmable. No big chunks of text. Numbers where possible.
 - Where possible, match the language of the job posting with your resume
@@ -237,3 +237,7 @@ In my experience, places only call to verify your former employment at an organi
 If there’s one thing I’ve learned about leaving a specialized role in a field that encourages folks to achieve national recognition as an individual scholar, it’s that **I’m not actually that special**. But what I do have is the wisdom of seeing how institutions work and understanding what makes those gears turn. That knowledge translates **very** easily across sectors and organizations.
 
 You are going to get there! Keep going.
+
+## Change log
+
+- **2025/04/27** Moved to this URL, added change log, updated markdown formatting
