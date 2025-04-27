@@ -162,7 +162,7 @@ Here are some transferable skills I identified for myself:
 
 Here are a few terms that might help in translating your skills for a new context:
 
-| **Academic word**|**Private sector word**|**Translation**|
+| Academic word|Private sector word|Translation|
 |---|---|---|
 |Faculty member|SME|SME = Subject matter expert. Someone who knows a lot about a specific topic.|
 |Administrators, deans, provosts|Executive leadership, C suite|In the private sector, like deans and provosts, the exec team runs things: CEO, COO, CIO, CTO - the C-suite.|

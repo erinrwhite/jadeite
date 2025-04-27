@@ -21,8 +21,8 @@
         --text-color: #eee; 
         --link-color: lightblue;
         --visited-color: plum; 
-        --main-color: #03f; 
-        --code-background-color: #222; 
+        --main-color: #cca300; 
+        --code-background-color: #444; 
         --code-color: #fff; 
         --blockquote-color: #fff; 
     }
@@ -118,7 +118,7 @@ th {
 td, th {
     vertical-align: top;
     border-bottom: 1px solid var(--code-background-color);
-    padding: 0.75em 0.75em 1em 0;
+    padding: 0.75em 0.5em 1em 0.25em;
 }
 
 hr {
