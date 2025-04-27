@@ -6,6 +6,7 @@ tags:
   - humans
   - libraries
 layout: post
+permalink: /finding-a-job-outside-academia/
 ---
 *This page has been online in some form or another since 2023 and is now making its appearance on my dot-com. This page is in perpetual draft. [Last updated April, 2025](#change-log).*
 

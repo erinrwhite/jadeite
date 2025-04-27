@@ -113,18 +113,14 @@ table {
     border-spacing: 0;
 }
 
-table thead {
-    background: #fco;
+thead {
+    background: var(--main-color);
 }
 
-table td, table th {
+td, th {
     vertical-align: top;
     border-bottom: 1px solid #666;
     padding: .25em .5em;
-}
-
-table tr {
-    border-bottom: 1px solid #ccc;
 }
 
 hr {

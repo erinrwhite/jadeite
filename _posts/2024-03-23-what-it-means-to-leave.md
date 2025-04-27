@@ -6,10 +6,6 @@ author: erinrwhite
 layout: post
 guid: '{{site.baseurl}}?p=503'
 permalink: /what-it-means-to-leave/
-classic-editor-remember:
-    - classic-editor
-full_width_featured_image_disabled:
-    - '1'
 image: /wp-content/uploads/2024/03/beautiful-neighbors.png
 tags: libraries life providence richmond
 ---
