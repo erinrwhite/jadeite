@@ -117,7 +117,7 @@ thead {
 
 td, th {
     vertical-align: top;
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid var(--code-background-color);
     padding: 0.75em 0.75em 1em 0;
 }
 
