@@ -108,6 +108,21 @@ main ul.post-tags li a::before {
 
 table {
     width: 100%;
+    border-spacing: 0;
+}
+
+table thead {
+    background: #fco;
+}
+
+table td, table th {
+    vertical-align: top;
+    border-bottom: 1px solid #666;
+    padding: .25em .5em;
+}
+
+table tr {
+    border-bottom: 1px solid #ccc;
 }
 
 hr {

@@ -7,7 +7,7 @@ tags:
   - libraries
 layout: post
 ---
-*This page has been online in some form or another since 2023 and it now making its appearance on my dot-com. This page is in perpetual draft. [Last updated April, 2025](#change-log).*
+*This page has been online in some form or another since 2023 and is now making its appearance on my dot-com. This page is in perpetual draft. [Last updated April, 2025](#change-log).*
 
 **Jump to:** [Jargon translator](#jargon-translator), [Transferable skills](#transferable-skills)
 
@@ -161,9 +161,8 @@ Here are some transferable skills I identified for myself:
 
 Here are a few terms that might help in translating your skills for a new context:
 
-|   |   |   |
+| **Academic word**|**Private sector word**|**Translation**|
 |---|---|---|
-|**Academic word**|**Private sector word**|**Translation**|
 |Faculty member|SME|SME = Subject matter expert. Someone who knows a lot about a specific topic.|
 |Administrators, deans, provosts|Executive leadership, C suite|In the private sector, like deans and provosts, the exec team runs things: CEO, COO, CIO, CTO - the C-suite.|
 |Collaboration|Cross-functional collaboration|Cross-functional just means everybody has different jobs and you are able to effectively work with them.|
