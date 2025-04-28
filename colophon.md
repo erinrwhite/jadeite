@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Site info + a11y
+title: Site info + accessibility
 description: How this site is built.
 permalink: /site-info
 ---
