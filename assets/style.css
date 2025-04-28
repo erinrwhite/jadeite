@@ -16,7 +16,7 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: ##00051e; 
+        --background-color: #00051e; 
         --heading-color: #ddd; 
         --text-color: #eee; 
         --link-color: lightblue;
@@ -70,7 +70,7 @@ header {
     border-bottom: 3px dotted var(--main-color);
 }
 
-header p.title a, header h1 { color: var(--heading-color); font-size: 1.5em; font-weight:600; }
+header p.title a, header h1 { color: var(--heading-color); font-size: 2em; font-weight:400; }
 
 nav ul { padding-left: 0 }
 nav ul li {
