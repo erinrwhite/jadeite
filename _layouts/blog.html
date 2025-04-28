@@ -34,7 +34,8 @@
 
     <ul class="post-tags">
         {% for tag in tag_words %}
-        <li><a href="#{{ tag | cgi_escape }}">{{ tag }} <small>({{ site.tags[tag] | size }})</small></a></li>
+        <li><a href="#{{ tag | cgi_escape }}">{{ tag }} <small>({{ site.tags[tag] | size }})</small></a>, </li>
+        <li>etc.</li>
         {% endfor %}
     </ul>
 
