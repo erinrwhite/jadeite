@@ -76,7 +76,8 @@ nav ul { padding-left: 0 }
 nav ul li {
     display: inline;
     list-style-type: none;
-    border-left: 3px dotted var(--main-color);
+    border-left: 5px dotted var(--main-color);
+    padding: 0 1em 0 0.5em;
 }
 
 strong,
