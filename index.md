@@ -1,7 +1,5 @@
 ---
 layout: blog
-title: Erin White
-description: Here be the description
+title: Home
+description:
 ---
-
-Intro paragraph!
