@@ -70,7 +70,7 @@ header {
     border-bottom: 3px dotted var(--main-color);
 }
 
-header p.title a { color: var(--heading-color); font-size: 1.35em; }
+header p.title a, header h1 { color: var(--heading-color); font-size: 1.5em; font-weight:600; }
 
 nav ul { padding-left: 0 }
 nav ul li {
@@ -109,6 +109,8 @@ main ul.post-tags {
 main ul.post-tags li {    
     display: inline;
 }
+
+main ul.post-tags small { filter:opacity(80%); font-variant:small-caps; }
 
 table {
     width: 100%;

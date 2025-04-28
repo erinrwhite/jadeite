@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Erin White
+title: Home
 description:
 ---
