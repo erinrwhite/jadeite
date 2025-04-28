@@ -72,8 +72,11 @@ header {
 
 header p.title a { color: var(--heading-color); font-size: 1.35em; }
 
-nav a {
-    margin-right: 8px;
+nav ul { padding-left: 0 }
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    border-left: 3px dotted var(--main-color);
 }
 
 strong,
