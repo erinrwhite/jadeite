@@ -1,11 +1,17 @@
 remote_theme: knhash/jekyllBear
-site.title: "Erin White"
+title: "Erin White"
+name: "Erin White"
 
 collections:
   my_tags:
     output: true
     permalink: /tag/:slug/
 
+plugins:
+  - jekyll-feed
+
+feed:
+  tags: true
 
 defaults:
   -
@@ -15,8 +21,6 @@ defaults:
     values:
       layout: tagged
 
-Blog: /posts
-
 links:
-  Colophon: /colophon
   About: /about
+  Site info + accessibility: /site-info

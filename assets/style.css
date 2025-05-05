@@ -1,5 +1,5 @@
 :root {
-    --width: 720px;
+    --width: 680px;
     --font-main: 'Verdana', sans-serif;
     --font-secondary: 'Verdana', sans-serif;
     --font-scale: 1em;
@@ -16,13 +16,13 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #111; 
+        --background-color: #00051e; 
         --heading-color: #ddd; 
         --text-color: #eee; 
         --link-color: lightblue;
         --visited-color: plum; 
-        --main-color: #ffcc00; 
-        --code-background-color: #222; 
+        --main-color: #997a00; 
+        --code-background-color: #444; 
         --code-color: #fff; 
         --blockquote-color: #fff; 
     }
@@ -57,28 +57,35 @@ a {
     font-family: var(--font-main);
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 3px solid var(--main-color);
 }
 
 a:hover {
     color: var(--text-color);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 header {
     margin-bottom: 20px;
     padding-bottom: 20px;
-    border-bottom: 3px dotted #fc0;
+    border-bottom: 3px dotted var(--main-color);
 }
 
-nav a {
-    margin-right: 8px;
+header p.title a, header h1 { color: var(--heading-color); font-size: 2em; font-weight:400; }
+
+nav ul { padding-left: 0 }
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    border-left: 5px dotted var(--main-color);
+    padding: 0 1em 0 0.5em;
 }
 
 strong,
 b {
     color: var(--heading-color);
 }
+
+strong em { font-weight: normal; font-style:normal; background: var(--main-color); padding: 0.2em; }
 
 button {
     margin: 0;
@@ -87,10 +94,37 @@ button {
 
 main {
     line-height: 1.6;
+    padding-bottom: 20px;
+    border-bottom: 3px dotted var(--main-color);
 }
+
+main h1 { line-height: 1.45; }
+
+main ul.post-tags {
+    list-style-type: square;
+    padding-left: 0;
+    padding-bottom:20px;
+}
+
+main ul.post-tags li {    
+    display: inline;
+}
+
+main ul.post-tags small { filter:opacity(80%); font-variant:small-caps; }
 
 table {
     width: 100%;
+    border-spacing: 0;
+}
+
+th {
+    background: var(--main-color);
+}
+
+td, th {
+    vertical-align: top;
+    border-bottom: 1px solid var(--code-background-color);
+    padding: 0.75em 0.5em 1em 0.25em;
 }
 
 hr {
@@ -117,28 +151,15 @@ blockquote {
     font-style: italic;
 }
 
-header {
-  border-bottom: 3px dotted var(--main-color);
-}
-
 footer {
-    margin-top: 40px;
-    border-top: 3px dotted var(--main-color);
+    margin-top: 20px;
     padding: 25px 0;
-    text-align: center;
+    text-align: left;
 }
 
-footer .footer-links li {
-    display: inline;
-    list-style-type: square;
-}
 
-.title:hover {
-    text-decoration: none;
-}
-
-.title h1 {
-    font-size: 1.5em;
+h1 {
+    font-size: 2em;
 }
 
 .inline {
@@ -166,8 +187,7 @@ ul.blog-posts li {
     display: flex;
     margin-bottom: 10px;
 }
-
-i time {
+ul.blog-posts time {
     font-style: normal;
     opacity: 0.7;
 }
@@ -180,17 +200,6 @@ ul.blog-posts li span {
 ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
-
-table {
-    border-spacing: 0;
-}
-
-th,
-td {
-    padding: 6px 13px;
-    font-size: 1em;
-}
-
 
 /* Form elements */
 input, button, textarea, select {

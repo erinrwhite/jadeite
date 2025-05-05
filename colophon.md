@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Site info + a11y
+title: Site info + accessibility
 description: How this site is built.
 permalink: /site-info
 ---
-
 ## Accessibility statement
 
 I've been making websites since 1998 and for a long time treated accessibility as an afterthought, focusing on compliance only. It wasn't until I started working in the federal civic tech space in 2023 that I really started to understand *how* to design accessibly from the jump. 
