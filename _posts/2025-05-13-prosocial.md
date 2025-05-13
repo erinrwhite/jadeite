@@ -9,6 +9,7 @@ tags:
   - a11y
 layout: post
 permalink: /trans-inclusive-design-prosocial
+description: I joined @prosocialdesign.bsky.social to chat about trans-inclusive design in 2025; how focusing on a11y, optimization, and trust+safety make for more inclusive products; and how tech folks should be approaching AI.
 ---
 The kind folks at the [Prosocial Design Network](https://www.prosocialdesign.org/) asked me to be a guest for April's "pro-social," a very low-key virtual gathering for folks interested in creating more inclusive digital spaces.
 
