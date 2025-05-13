@@ -22,5 +22,6 @@ defaults:
       layout: tagged
 
 links:
+  Home: /
   About: /about
   Site info + accessibility: /site-info
