@@ -50,6 +50,7 @@ h5,
 h6 {
     font-family: var(--font-main);
     color: var(--heading-color);
+    line-height: 1.35em;
 }
 
 a {
@@ -111,6 +112,13 @@ main ul.post-tags li {
 }
 
 main ul.post-tags small { filter:opacity(80%); font-variant:small-caps; }
+
+main ul.post-tags a {
+    background: var(--main-color);
+    padding: 4px 8px;
+    border-radius: 8px;
+    filter:opacity(80%);
+}
 
 table {
     width: 100%;
