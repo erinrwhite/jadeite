@@ -102,6 +102,8 @@ main {
 
 main h1 { line-height: 1.45; }
 
+main time { font-style:italic; }
+
 main ul.post-tags {
     list-style-type: square;
     padding-left: 0;
