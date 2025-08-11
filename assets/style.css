@@ -50,6 +50,8 @@ h5,
 h6 {
     font-family: var(--font-main);
     color: var(--heading-color);
+    line-height: 1.35em;
+    margin: 1.5em 0 0.5em;
 }
 
 a {
@@ -100,10 +102,13 @@ main {
 
 main h1 { line-height: 1.45; }
 
+main time { font-style:italic; }
+
 main ul.post-tags {
     list-style-type: square;
     padding-left: 0;
     padding-bottom:20px;
+    line-height: 2em;
 }
 
 main ul.post-tags li {    
@@ -111,6 +116,14 @@ main ul.post-tags li {
 }
 
 main ul.post-tags small { filter:opacity(80%); font-variant:small-caps; }
+
+main ul.post-tags a {
+    background: var(--main-color);
+    padding: 4px 8px;
+    border-radius: 8px;
+    filter:opacity(80%);
+    white-space:nowrap;
+}
 
 table {
     width: 100%;
