@@ -1,7 +1,7 @@
 remote_theme: knhash/jekyllBear
 title: "Erin White"
 name: "Erin White"
-url: "https://erinrwhite.com/"
+url: "https://erinrwhite.com"
 
 collections:
   my_tags:
