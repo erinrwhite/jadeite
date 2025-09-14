@@ -41,6 +41,7 @@ Because robust design systems and Figma libraries make it easier to rapidly deve
 - **Iteration creep:** The design started as one thing, but has iterated so much that its functionality has left the bounds of its original design completely and no longer makes sense.
 - **Hotfix glue gun:** The design doesn’t accommodate unanticipated stress cases, or doesn’t do well in user testing. “Adjustments” are made by adding on hotfixes rather than addressing the root issue.
 - **Looming deadlines:** a team is far down the road with a high-fidelity design and it’s hard to stop, or to incorporate late-breaking changes, before they have a deadline to complete their work.
+
 ### The result
 The result is something that just ain't quite right, an incomplete or overly complex solution that has gaps for some users with “non-standard” use cases. It's an increasingly brittle interface that makes maintenance a bottomless pit until it can be rebuilt. This’ll create frustrating experiences for users, and it'll be an interface that they have to learn over and over again.
 ### Interventions
@@ -57,6 +58,7 @@ Teams use the design system to design experiences (perhaps quite well!) but don�
 - **Technical debt**: Teams don't have time to contribute to the design system because their backlog is too big, they're moving too fast, or they are simply prioritizing other work.
 - **Gatekeeping:** The process for contributing to the design system is opaque, or onerous, or locked down to only one team (or person!). If community members feel like they can't or shouldn't contribute to the design system, they don't. 
 - **Inflexible/rigid design system:** The design system isn't helping the teams solve their problems, or is incomplete. Or, the team's engagement with the design system is more punitive ("Fix this or else") than generative ("Let's make sure this component does what you need it to do"). Rather than being seen as a toolbox, it's a checkbox.
+
 ### The result
 The implications for this are system-wide. The overall user experience of your digital ecosystem can suffer. Stale, inflexible experiences don’t evolve with the times, or worse, teams abandon design system components to craft their own experiences, creating long-term maintainability problems. The end result is a degraded experience for your users, a maintainability quagmire, and inconsistent designs across your platform. In my work context, this is something we work very hard to avoid.
 ### Interventions
