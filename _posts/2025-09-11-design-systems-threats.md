@@ -22,6 +22,7 @@ Instead of designing an experience or an interaction, the team puts design syste
 - **Free-ranging stakeholders:** A non-designer stakeholder is exerting undue influence on the design, or is being inflexible about business rules, and designers are not empowered or knowledgeable enough to push back. Common signals that a stakeholder is pulling the strings:
 	- ”We'll need to get approval for that change.”
 	- “Our stakeholder said we need to do it this way.”
+
 ### The result
 If you have a pre-launch QA process for products (as we do), those design issues, if not caught early, result in a ton of problems that need to be fixed before the product goes live. If those findings aren't deemed important enough to fix before go-live, they go to the team's backlog to die, and the user experience suffers.
 
@@ -30,6 +31,7 @@ If the product ships as-is, it looks like the rest of your site in some ways, bu
 - **Designers: Focus on clearly defining the problem to be solved**, creating user flows before moving to the toolbox of high-fidelity tools.
 - **Designers: Design for mobile first** Designing for a small screen (or high browser zoom) streamlines design and really forces decision-making about the most important elements and interactions. If the page was laid out in one long line, what should the sequence of elements be? What headings would need to be present to help convey the content grouping and hierarchy? This results in a more accessible experience for most users, especially users who rely on assistive technologies like screen readers.
 - **Leaders: Mentor junior teams and designers.** This problem is not specifically a design system problem, but it’s exacerbated by a readily available component library. It’s moreso an underdeveloped design ethos. Seasoned, user-centered UX designers who are trusted, mentored, and supported to do good work will know and do better. These folks not only have more experience, but are also prepared to push back when stakeholders ask for something that’s a bad solution. Junior designers can grow into this skillset if they have good mentors.
+
 ## 2. First-solution inertia
 ### What it is
 Because robust design systems and Figma libraries make it easier to rapidly develop high-fidelity prototypes, a team’s early design ideas can sometimes ossify too fast. At first glance, the solution seems good. On second glance, it’s clear there is something not quite right, and there is an increasing number of boo-boos being covered up. The sunk cost fallacy leads teams to keep as much of what they’ve got as possible, even if what they actually need to do is scrap it and start again.
@@ -46,6 +48,7 @@ The result is something that just ain't quite right, an incomplete or overly com
 - **Designers: Research early:** Do research with users before letting the design harden.
 - **Designers: Engage peer reviewers:** Get another set of heuristic eyes on your designs. (Either through a governance process or via peer feedback.) Bring your questions.
 - **Leadership: Build in slack time:** Account for time in the project to make potentially breaking changes. Ensure the team is consistently revisiting those user flows from earlier in your design process to make sure you're solving the right problems the right way.
+
 ## 3. Disengagement
 ### What it is
 Teams use the design system to design experiences (perhaps quite well!) but don’t contribute to the design system’s growth. Or, they may craft workarounds when the design system doesn't do things *exactly* as needed, rather than suggesting changes.
