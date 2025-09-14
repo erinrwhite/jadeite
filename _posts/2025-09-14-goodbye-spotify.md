@@ -1,5 +1,5 @@
 ---
-title: 'Goodbye, Spotify: Or, switching costs ain't what they used to be'
+title: "Goodbye, Spotify: Or, switching costs ain't what they used to be"
 tags:
   - life
   - music
