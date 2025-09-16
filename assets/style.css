@@ -58,12 +58,12 @@ a {
     color: var(--link-color);
     font-family: var(--font-main);
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
     color: var(--text-color);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 header {
@@ -87,7 +87,7 @@ b {
     color: var(--heading-color);
 }
 
-strong em { font-weight: normal; font-style:normal; background: var(--main-color); padding: 0.2em; }
+strong em, em strong { font-weight: normal; font-style:normal; background: var(--main-color); padding: 0.2em; }
 
 button {
     margin: 0;
