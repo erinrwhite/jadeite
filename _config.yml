@@ -27,3 +27,8 @@ links:
   Home: /
   About: /about
   Site info + accessibility: /site-info
+
+webmentions:
+  username: erinrwhite.com
+  cache_folder: .cache
+  max_attempts: 5
