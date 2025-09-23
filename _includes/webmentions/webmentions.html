@@ -49,10 +49,7 @@
 
             <div class="webmention__meta">
               {% if webmention.uri %}
-                <a class="webmention__source u-url" href="{{ webmention.uri }}" rel="nofollow">Permalink</a>
-              {% endif %}
-              {% if webmention.source %}
-                <a class="webmention__source u-url" href="{{ webmention.source }}" rel="nofollow">{{ webmention.source }}</a>
+                <a class="webmention__source u-url" href="{{ webmention.uri }}" rel="nofollow">{{ webmention.uri }}</a>
               {% endif %}
               {% if webmention.pubdate %}
                 <time class="webmention__pubdate dt-published"
