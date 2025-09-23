@@ -33,3 +33,6 @@ webmentions:
   username: erinrwhite.com
   cache_folder: .cache
   max_attempts: 5
+  templates:
+    webmentions: _includes/webmentions/webmentions.html
+  debug: true
