@@ -48,15 +48,15 @@
             </div>
 
             <div class="webmention__meta">
-              {% if webmention.pubdate %}
-                <time class="webmention__pubdate dt-published"
-                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}">Reply on {{ webmention.pubdate | date: '%d %B %Y' }}</time>
-              {% endif %}
               {% if webmention.uri %}
                 <a class="webmention__source u-url" href="{{ webmention.uri }}" rel="nofollow">Permalink</a>
               {% endif %}
               {% if webmention.source %}
-                <a class="webmention__source u-url" href="{{ webmention.source }}" rel="nofollow">Permalink</a>
+                <a class="webmention__source u-url" href="{{ webmention.source }}" rel="nofollow">{{ webmention.source }}</a>
+              {% endif %}
+              {% if webmention.pubdate %}
+                <time class="webmention__pubdate dt-published"
+                      datetime="{{ webmention.pubdate | date: '%FT%T%:z' }}"> on {{ webmention.pubdate | date: '%d %B %Y' }}</time>
               {% endif %}
             </div>
           </article>
