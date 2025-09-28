@@ -15,14 +15,16 @@
 </footer>
 <!-- SimpleAnalytics with some added info -->
 <script type="text/javascript">
-const refURL = document.referrer;
+<script type="text/javascript">
 const analyticsURL = "https://queue.simpleanalyticscdn.com/noscript.gif";
-const hostName = "erinrwhite.com";
+const refURL = document.referrer;
+const hostName = encodeURI(window.location.hostname);
 const pathName = encodeURI(window.location.pathname);
+const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
 const imageTag = document.createElement("img");
 imageTag.setAttribute("alt","");
 imageTag.setAttribute("referrerpolicy","no-referrer-when-downgrade");
-imageTag.setAttribute("src",analyticsURL+"?hostname="+hostName+"&path="+pathName+"&referrer="+refURL);
+imageTag.setAttribute("src",analyticsURL+"?hostname="+hostName+"&path="+pathName+"&referrer="+refURL+"&timezone="+userTZ);
 document.body.appendChild(imageTag);
 </script>
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
