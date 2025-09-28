@@ -11,7 +11,7 @@ I've been really enjoying myself since I [moved my website from Wordpress to Jek
 
 One thing that's been missing is being able to have an idea of which pages on my website are getting visits, and what some of the referring sites are. 
 
-After successfully setting up [Webmentions for Jekyll](https://github.com/aarongustafson/jekyll-webmention_io) to capture incoming mentions from other website owners using Aaron Gustafson's plugin (an entirely different post!), I decided to look for an easy way to collect usage data from the site. 
+After successfully setting up [Webmentions for Jekyll](https://github.com/aarongustafson/jekyll-webmention_io) to capture incoming mentions from other website creators (an entirely different post!), I decided to look for an easy way to collect usage data from the site. 
 
 ## Measuring use, not users
 
@@ -27,7 +27,7 @@ I didn't want to collect data about the **people** using my site - just how it's
 
 I've worked with a number of web analytics tools over the years - AwStats, Urchin, Google Analytics, Matomo. GA is the giant player because it is free and thus ubiquitous. (Check out the [Google Analytics stats on BuiltWith](https://trends.builtwith.com/analytics/Google-Analytics/) if you want to truly see how popular it is.) And as the adage goes, when a product with this many features is free, it's because you and your users are the product.
 
-Beyond the privacy concerns, I also just don't need all of that! I get overwhelmed when I log into Google Analytics for other projects I'm working on because the UI is just so impenetrable. I don't need all that data, and I certainly don't need to be calling all those Javascript files and trackers all over my website.
+Beyond my privacy concerns with Google Analytics, I just don't need all of that! I get overwhelmed when I log in to check on other projects I'm working on because the UI is just so impenetrable. I don't need all that data, and I certainly don't need to be calling all those Javascript files and trackers all over my website.
 
 When I started looking at alternatives, I wanted a tool that:
 
@@ -52,16 +52,16 @@ The instructions for installing SimpleAnalytics are straightforward: call an ext
 
 After tinkering with the GIF-only analytics implementation a bit, I realized I could send more information consistently using the GIF if I [added some parameters](https://docs.simpleanalytics.com/without-javascript#:~:text=These%20are%20the%20values%20we%20can%E2%80%99t%20get%20with%20the%20pixel%20alone%3A) to the URL for the image file. The data points I really wanted to capture reliably were `referrer`, which isn't available by default with the GIF, and `page path` , which can be reported less reliably using the GIF.
 
-To be able to identify these variables and add them to the link to the GIF, I'd need to add some Javascript on the page. This was an acceptable compromise for me - still better than calling a huge external file, and it also allowed me to hand-tailor what attributes I sent to analytics. 
+To be able to identify these variables and add them to the link to the GIF, I'd need to add some Javascript on the page. One of the things I loved about moving to Jekyll was that I didn't have any Javascript on my site, but adding these few lines was an acceptable compromise for me - still better than calling a huge external file, and it also allowed me to hand-tailor what attributes I sent to analytics. 
 
-(This is also the first Javascript I've added to my site since I moved to Jekyll.)
-
-Here's where I landed - a quick script in the footer template of my site that
+Here's where I landed - a quick script in the footer template of my site that...
 
 - pulls in the full hostname and pathname of the current page
 - grabs the referring URL if there is one
 - concatenates everything into the full URL to the GIF
 - builds an `<img>` tag to render the GIF on the page and send the analytics
+
+### Code
 
 {% gist c77eefc786fb2574160c21d30ef9e61a %}
 
