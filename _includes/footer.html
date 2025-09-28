@@ -1,4 +1,6 @@
-<footer>
+<!DOCTYPE html>
+<body>
+  <footer>
   <h2>This is the site footer.</h2>
   <p><a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Creative Commons License" width="88"></a> <a href="/feed.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="Valid RSS feed"></a></p>
   <p><em>Last updated September, 2025.</em></p>
@@ -14,4 +16,10 @@
   </nav>
 </footer>
 <!-- 100% privacy-first analytics -->
-<img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/>
+<img id="simple-analytics-link" src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/>
+<script type="text/javascript">
+const refURL = document.referrer;
+const analyticsURL = document.getElementById("simple-analytics-link").getAttribute("src");
+document.getElementById("simple-analytics-link").setAttribute("src", analyticsURL+"?referrer="+refURL);
+</script>
+</body></html>
