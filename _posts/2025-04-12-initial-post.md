@@ -5,6 +5,7 @@ tags:
   - tech
   - life
   - providence
+permalink: /first-post-with-jekyll/
 ---
 This is the first post with my new tech stack!
 
