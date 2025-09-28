@@ -1,4 +1,4 @@
-  <footer>
+<footer>
   <h2>This is the site footer.</h2>
   <p><a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Creative Commons License" width="88"></a> <a href="/feed.xml"><img src="https://validator.w3.org/feed/images/valid-rss-rogers.png" alt="Valid RSS feed"></a></p>
   <p><em>Last updated September, 2025.</em></p>
@@ -13,10 +13,14 @@
     </ul>
   </nav>
 </footer>
-<!-- 100% privacy-first analytics -->
-<img id="simple-analytics-link" src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/>
+<!-- SimpleAnalytics with some added info -->
 <script type="text/javascript">
 const refURL = document.referrer;
-const analyticsURL = document.getElementById("simple-analytics-link").getAttribute("src");
-document.getElementById("simple-analytics-link").setAttribute("src", analyticsURL+"?referrer="+refURL);
+const analyticsURL = "https://queue.simpleanalyticscdn.com/noscript.gif";
+const hostName = "erinrwhite.com";
+const pathName = encodeURI(window.location.pathname);
+const imageTag = document.createElement("img");
+imageTag.setAttribute("alt","");
+imageTag.setAttribute("referrerpolicy","no-referrer-when-downgrade");
+imageTag.setAttribute("src",analyticsURL+"?hostname="+hostName+"&path="+pathName+"&referrer="+refURL);
 </script>
