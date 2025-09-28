@@ -23,4 +23,6 @@ const imageTag = document.createElement("img");
 imageTag.setAttribute("alt","");
 imageTag.setAttribute("referrerpolicy","no-referrer-when-downgrade");
 imageTag.setAttribute("src",analyticsURL+"?hostname="+hostName+"&path="+pathName+"&referrer="+refURL);
+document.body.appendChild(imageTag);
 </script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
