@@ -20,7 +20,16 @@
 
     <div>
         <h2>Comments</h2>
-    {% webmentions page.url %}
+            {% webmentions page.url %}
+        <h3>Leave a comment</h3>
+<form method="POST" action="https://api.staticman.net/v3/entry/github/eduardoboucas/staticman/gh-pages/comments">
+  <input name="options[redirect]" type="hidden" value="{{ page.permalink }}">
+  <input name="options[slug]" type="hidden" value="{{ page.permalink }}">
+  <label><input name="fields[name]" type="text">Name</label>
+  <label><input name="fields[email]" type="email">E-mail</label>
+  <label><textarea name="fields[message]"></textarea>Message</label>
+  <button type="submit">Add comment</button>
+</form>
     </div>
 </main>
 
