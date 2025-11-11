@@ -30,24 +30,24 @@ What is a hacker epistemology? From the [text of Bess’s talk](http://www.ibibl
 
 Finding ways to support our own and others’ curiosity, exploration and experimentation is crucial to growing our communities and making better stuff. And being open to acknowledging bugs, not just in our code but in our lives, to actively try to fix things, makes the world better for everybody.
 
-## <span style="font-size: 1.285714286rem; line-height: 1.6;">The biggest failure is not talking about failure</span>
+## The biggest failure is not talking about failure
 
 Lately there’s been a lot of talk about failure, inside and outside of the tech community. I was happy to participate in a pre-conference breakout session called [Fail4Lib](http://lanyrd.com/2013/c4l13/scbpdt/), wherein a small group of us discussed projects that had failed at our institutions. Everybody’s candor was so refreshing, and it was also a relief to hear of other organizations grappling with similar problems.
 
 From this preconference, here are my unofficial top-three reasons why projects fail:
 
-1. <span style="line-height: 1.714285714; font-size: 1rem;">**There’s a breakdown in communication somewhere**, from senior management to project team to external stakeholders to internal stakeholders…there’s no such thing as overcommunicating about your project. </span>
+1. **There’s a breakdown in communication somewhere**, from senior management to project team to external stakeholders to internal stakeholders…there’s no such thing as overcommunicating about your project.
 2. **We don’t know it when we see it.** Failure isn’t always something that blows up in your face. Sometimes we don’t assess projects after they launch (or a year down the road, or 5 years down the road) and they fail slowly, a little bit, over a long period of time. And sometimes we just don’t know when to quit a failing project. The list goes on.
 3. **We’re building projects without a clear audience or purpose.** Are you building something just because you can or just because you’d like it yourself? That’s not enough of a reason. Know your audience. If you don’t know the why’s or the who’s about your project, kill it.
 
 ## Don’t forget why you’re here
 
-[Mark Matienzo’s lightning talk on emotion in archives](http://matienzo.org/blog/2013/emotion-archives-interactive-fiction-linked-data/) was a highlight of Code4Lib for me. In a few short minutes he brought us all back to the reason library and archives folks do what we do: we’re preserving emotions and making them available to the world for remembrance, education, creativity, inspiration.
+[M Matienzo’s lightning talk on emotion in archives](http://matienzo.org/blog/2013/emotion-archives-interactive-fiction-linked-data/) was a highlight of Code4Lib for me. In a few short minutes M. brought us all back to the reason library and archives folks do what we do: we’re preserving emotions and making them available to the world for remembrance, education, creativity, inspiration.
 
 For people in the nonprofit sector–whether we’re archivists preserving the cultural record, or web-folk working on making it easier for high school students to apply for college–it’s good to be reminded that our mission is grounded in helping people and connecting them with information.
 
 ## Other read-worthy wrapups of Code4Lib 2013
 
-- <span style="line-height: 14px;">[Cynthia Ng: Code4Lib 2013 Reflections and thoughts](http://cynng.wordpress.com/2013/02/21/code4lib-2013-reflection-thoughts/) (Cynthia also [liveblogged the whole damn conference](http://cynng.wordpress.com/tag/c4l13/), which was super-helpful for all of us)</span>
+- [Cynthia Ng: Code4Lib 2013 Reflections and thoughts](http://cynng.wordpress.com/2013/02/21/code4lib-2013-reflection-thoughts/) (Cynthia also [liveblogged the whole damn conference](http://cynng.wordpress.com/tag/c4l13/), which was super-helpful for all of us)
 - [Hillel Arnold: How I learn](http://hillelarnold.com/blog/2013/02/17/how-i-learn/)
 - [Margaret Heller: Reflections on Code4Lib 2013](http://acrl.ala.org/techconnect/?p=2946)

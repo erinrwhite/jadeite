@@ -8,7 +8,7 @@ permalink: /coffeeneuring-challenge-fall-2024/
 tags: bikes life providence
 ---
 
-After a long break from participating in a bike challenge, I’m returning this year! [New city]({{site.baseurl}}a-bit-of-an-update/), new bikes, same me, same ol’ silly bike tricks. After chatting with some coworkers on Slack about [randonneuring](https://en.wikipedia.org/wiki/Randonneuring), I remembered that [Chasing Mailboxes sponsors bike challenges](https://chasingmailboxes.com/2024/09/30/coffeeneuring-challenge-2024-the-year-of-small-wins/) – and lo and behold, another one was starting that week!
+After a long break from participating in a bike challenge, I’m returning this year! [New city](/a-bit-of-an-update/), new bikes, same me, same ol’ silly bike tricks. After chatting with some coworkers on Slack about [randonneuring](https://en.wikipedia.org/wiki/Randonneuring), I remembered that [Chasing Mailboxes sponsors bike challenges](https://chasingmailboxes.com/2024/09/30/coffeeneuring-challenge-2024-the-year-of-small-wins/) – and lo and behold, another one was starting that week!
 
 ## WTF is coffeeneuring?
 

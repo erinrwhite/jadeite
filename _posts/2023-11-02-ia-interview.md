@@ -11,7 +11,7 @@ classic-editor-remember:
 tags: civic-tech libraries tech ia a11y
 ---
 
-This spring, I had the joy of reconnecting with my first professional colleague, manager and mentor [Susan Teague Rector](https://srector.tribock.co/), who gave me some really excellent guidance during my job hunt. She’s teaching an Information Architecture class at the [University of Tennessee’s iSchool](https://sis.utk.edu/) this fall and reached to interview me for her class. I was excited for the chance to talk about my new gig as a full-time information architect working in the civic tech space.
+This spring, I had the joy of reconnecting with my first professional colleague, manager and mentor [Susan Teague Rector](https://www.linkedin.com/in/seteague), who gave me some really excellent guidance during my job hunt. She’s teaching an Information Architecture class at the [University of Tennessee’s iSchool](https://sis.utk.edu/) this fall and reached to interview me for her class. I was excited for the chance to talk about my new gig as a full-time information architect working in the civic tech space.
 
 *This is a lightly edited transcript of our interview in September 2023, shared here with her permission.*
 
@@ -151,7 +151,7 @@ With government work, you’re not necessarily worried about selling something. 
 
 It’s mission-driven work and can be really satisfying. So, a little plug for public service.
 
-**Gov tech is taking off. I’ve noticed it too, and many of the things that we’ve looked at in class, examples for personas, we’ve pulled from [Gov.UK](https://design-system.service.gov.uk/). We’ve also pulled some examples from the [USDA](https://www.usda.gov/da/ocx), which has an amazing customer experience site. So I think that definitely is helping to amp up government sector.**
+**Gov tech is taking off. I’ve noticed it too, and many of the things that we’ve looked at in class, examples for personas, we’ve pulled from [Gov.UK](https://design-system.service.gov.uk/). We’ve also pulled some examples from the [USDA](https://www.usda.gov/about-usda/general-information/staff-offices/departmental-administration/office-customer-experience-ocx), which has an amazing customer experience site. So I think that definitely is helping to amp up government sector.**
 
 Yes! Gov.UK is excellent. They’re really leading the charge on a lot of civic tech and design things. Good work being done.
 

@@ -27,7 +27,7 @@ Thanks to a lot of heavy lifting by UX advocates, user experience and human-cent
 
 ## Accessibility to the front
 
-There is a lot of good accessibility work being done in the civic tech space, specifically an [accessibility beyond compliance](https://adhoc.team/playbook-accessibility/) approach that makes a lot of work in civic tech a model for how accessibility should be done in other industries. Accessibility is baked in from the beginning phases of design and development, rather than being an afterthought, an add-on, or a grudging nod to legal compliance. I’ve learned more about accessibility in the past 9 months than in the previous 9 years. There’s a long way to go, **and** it’s exciting that accessible, inclusive, trauma-informed design is part of everyone’s work.
+There is a lot of good accessibility work being done in the civic tech space, specifically an [accessibility beyond compliance](https://web.archive.org/web/20250124095302/https://adhoc.team/playbook-accessibility/) approach that makes a lot of work in civic tech a model for how accessibility should be done in other industries. Accessibility is baked in from the beginning phases of design and development, rather than being an afterthought, an add-on, or a grudging nod to legal compliance. I’ve learned more about accessibility in the past 9 months than in the previous 9 years. There’s a long way to go, **and** it’s exciting that accessible, inclusive, trauma-informed design is part of everyone’s work.
 
 ## We prioritize who we’re designing for
 

@@ -23,7 +23,7 @@ There are a lot of logistical and emotional components of job-hunting, applying,
 - [Quit lit: compendium of posts from people who left academia](https://docs.google.com/spreadsheets/d/1OODoiZKeAtiGiI3IAONCspryCHWo5Yw9xkQzkRntuMU/edit#gid=0)
 - [Sabbatical](https://beccaquon.com/personal-projects/sabbatical/) by Becca Quon
 - [What it took to take the leap](https://eiratansey.com/2023/12/20/what-it-took-to-take-the-leap/) by Eira Tansey
-- [Career change resources](https://alexislogsdon.com/category/career-change/) by Alexis Logsdon
+- [Career change resources](https://web.archive.org/web/20240814093207/https://alexislogsdon.com/category/career-change/) by Alexis Logsdon
 - [What it means to leave](https://erinrwhite.com/what-it-means-to-leave/) by me
 - [https://medium.com/@michellehandy94/from-phd-to-product-my-messy-journey-into-industry-f1046a22a754](https://medium.com/@michellehandy94/from-phd-to-product-my-messy-journey-into-industry-f1046a22a754)
 

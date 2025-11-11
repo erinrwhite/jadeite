@@ -9,6 +9,6 @@ permalink: /trans-inclusive-design-at-a-list-apart/
 tags: libraries tech ux ia trans
 ---
 
-I am thrilled and terrified to say that I have an article on [Trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/ "Trans-inclusive design") out on A List Apart today.
+I am thrilled and terrified to say that I have an article on [Trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/) out on A List Apart today.
 
 I have read A List Apart for years and have always seen it as The Site for folks who make websites, so it is an honor to be published there.

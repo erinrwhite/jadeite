@@ -13,7 +13,7 @@ I enjoyed the hell out of [Code4Lib 2014](http://code4lib.org/conference/2014/sc
 
 This year I [took pretty-okay notes for most of the sessions](https://github.com/erinrwhite/c4l2014-notes), but I wanted to loop back a few weeks after the fact and talk big takeaways.
 
-## [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#community-and-diversity)Community and diversity
+## Community and diversity
 
 This was my fourth Code4Lib conference. By this point, this group is like family for me – it’s always great to catch up with people in person after only seeing them on Twitter throughout the rest of the year. There were lots of new faces this year, too, including (from what I could tell) a whole lot more women than in previous years.
 
@@ -21,7 +21,7 @@ And, this year’s conference also felt more diverse in job descriptions. More a
 
 I continue to be grateful for the community’s ongoing commitment to creating an inclusive culture. Our keynote speakers [Sumana Harihareswara](http://www.harihareswara.net/) and [Valerie Aurora](http://valerieaurora.org/) didn’t talk specifically about code, but about code culture and how we can make it better for everybody.
 
-## [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#ux-is-a-social-justice-problem)UX is a social justice problem
+## UX is a social justice problem
 
 [Sumana Harihareswara’s keynote](http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara) was an excellent start to the conference. Her thesis: usability impacts use. It’s why we go to docs-in-a-box instead of seeing a general practitioner, for example, and why scholars are going to academia.edu instead of navigating our byzantine library systems. But at what long-term cost?
 
@@ -31,17 +31,17 @@ How do we make the right things, and make them usable? Empathy. It’s a “femi
 
 Read the [transcript of Sumana’s keynote](http://wiki.code4lib.org/index.php/2014_Keynote_by_Sumana_Harihareswara).
 
-## [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#discomfort--growth)Discomfort = growth
+## Discomfort = growth
 
 This was a nice tying thread between [2013’s Fail4Lib preconference](http://lanyrd.com/2013/c4l13/scbpdt/) and this year’s keynotes. We learn by failing, and that includes not just bugs in code, but our own personal shortcomings. [Valerie Aurora’s](https://github.com/erinrwhite/c4l2014-notes/blob/master/day3-keynote.md) quote was,
 
 > “Notice when you feel discomfort or guilt. It’s a sign you are learning something.”
 
-## [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#the-web-in-2014-and-beyond)The web in 2014 and beyond
+## The web in 2014 and beyond
 
 Beyond all this talk about community, growth, etc. – Code4Lib is also a deeply nerdy technology conference. Seeing the presentations and talking with folks at different libraries helped me understand the landscape of web technologies and where we’re headed.
 
-### [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#yep-javascript)Yep, Javascript.
+### Yep, Javascript.
 
 A lot has changed since I started building websites in 1998, so I never thought I’d say in 2014 that Javascript is the future of the internet. Look around, though, and any web site or application that has an interactive component (anything in the Google Apps suite, Facebook, WordPress…) is leveraging Javascript libraries to create a smoother, faster user experience.
 
@@ -55,7 +55,7 @@ Related presentations:
 - [Automated testing for Javascript interfaces](https://github.com/mredar/code4lib-2014-PhantomJS-Selenium)
 - [Web sockets for real-time communication](http://go.ncsu.edu/websocket)
 
-### [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#making-connections-linked-data-schemaorg-seo)Making connections: linked data, schema.org, SEO
+### Making connections: linked data, schema.org, SEO
 
 A couple years ago I could not have defined “linked data” for you, and I’ll still probably not do it justice here, but the basic idea is: there are some types of things (i.e. people, events, citations) that could be output using the same formatting on the web. This standard format makes it easier for machines to understand the information and thus for humans to find and use it.
 
@@ -66,7 +66,7 @@ Related presentations:
 - [Structured data NOW: seeding schema.org in library systems](http://lanyrd.com/2014/c4l14/scxyrq/)
 - [Schema.org for digital collections at Duke](https://blogs.library.duke.edu/bitstreams/2014/03/27/schema-org-and-google-for-local-discovery-some-key-takeaways/)
 
-## [](https://github.com/erinrwhite/c4l2014-notes/blob/master/wrapup.md#vcu-libraries-web-team-is-unusual)VCU Libraries’ web team is unusual
+## VCU Libraries’ web team is unusual
 
 VCU Libraries sent two of us to Code4Lib this year, which was great – both our developer Shariq and I had fun and learned a lot, including that VCU Libraries is unique in the size and structure of the web team.
 
@@ -78,6 +78,4 @@ So, looking forward, we should continue to be thoughtful but bold about the type
 
 > Humbling morning at work after big inspiring ideas at [\#c4l14](https://twitter.com/search?q=%23c4l14&src=hash), returning to all the things that broke/languished while we were gone. Worth it
 > 
-> — Erin White (@erinrwhite) [March 28, 2014](https://twitter.com/erinrwhite/statuses/449538538045186048)
-
-<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
+> — Erin White (@erinrwhite) March 28, 2014

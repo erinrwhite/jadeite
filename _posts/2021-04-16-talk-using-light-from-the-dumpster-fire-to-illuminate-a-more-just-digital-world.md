@@ -9,7 +9,7 @@ permalink: /talk-using-light-from-the-dumpster-fire-to-illuminate-a-more-just-di
 tags: civic-tech libraries richmond speaking
 ---
 
-This February I gave a lightning talk for the [Richmond Design Group](https://www.instagram.com/rvadsgn/?hl=en). My question: what if we use the light from the dumpster fire of 2020 to see an equitable, just digital world? How can we change our thinking to build the future web we need?
+This February I gave a lightning talk for the [Richmond Design Group](https://www.instagram.com/rvadsgn/). My question: what if we use the light from the dumpster fire of 2020 to see an equitable, just digital world? How can we change our thinking to build the future web we need?
 
 ---
 
@@ -140,8 +140,6 @@ And, as we think about what we build online, how can we also apply that thinking
 > 
 > — Dana Chisnell (she / her) (@danachis) [February 5, 2021](https://twitter.com/danachis/status/1357835164118876161?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
-
 I don’t have a ton of time left today. I wanted to talk about public service like the very excellent Dana Chisnell here.
 
 Like I said, I’ve worked in the public sector, in higher ed, for a long time. It’s my bread and butter. It’s weird, it’s hard, it’s great.
@@ -157,7 +155,6 @@ There’s a lot of work to be done, and it ain’t happening at civic hackathons
 > 
 > — Dana Chisnell (she / her) (@danachis) [February 5, 2021](https://twitter.com/danachis/status/1357835374324760576?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>  
 I want you to consider for a minute how many folks are working in the public sector right now, and how technical expertise — especially in-house expertise — is something that is desperately needed.
 
 Pictured here are the [old website](http://richmondgov.com/) and [new website](https://www.rva.gov/) for the city of Richmond. I have a whole ‘nother talk about that new Richmond website. I FOIA’d the contracts for this website. There are 112 accessibility errors on the homepage alone. It’s been in development for 3 years and still isn’t in full production.

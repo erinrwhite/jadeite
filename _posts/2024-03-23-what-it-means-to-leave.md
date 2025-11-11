@@ -1,16 +1,14 @@
 ---
 id: 503
-title: 'What it means to leave'
-date: '2024-03-23T16:17:47-04:00'
+title: What it means to leave
+date: 2024-03-23T16:17:47-04:00
 author: erinrwhite
 layout: post
-guid: '{{site.baseurl}}?p=503'
 permalink: /what-it-means-to-leave/
-image: /wp-content/uploads/2024/03/beautiful-neighbors.png
 tags: libraries life providence richmond
 ---
 
-In early 2016 I posted [What it means to stay]({{site.baseurl}}what-it-means-to-stay/), a rumination on staying put in my job long-term, building community, and switching into marathon mode in my workplace. I continue to hear from folks that it resonates with you.
+In early 2016 I posted [What it means to stay](/what-it-means-to-stay/), a rumination on staying put in my job long-term, building community, and switching into marathon mode in my workplace. I continue to hear from folks that it resonates with you.
 
 This post is a follow-up: supporting my wife as she exited a harmful work situation, moving nine states away, changing careers, and finding professional footing again after a long run in higher ed and academic libraries.
 
@@ -40,7 +38,7 @@ Our rapid shift to work-from-home during COVID made me realize not only that I *
 
 In the midst of intersecting global crises, a pandemic and an insurrection, I also increasingly struggled to feel that the work I was doing every day mattered. I didn’t want to climb the ladder any further, and I knew that if I wanted to leave my specialized field, it needed to happen soon.
 
-In my post eight years ago, I wrote about a friend telling me I could [“go high or go deep”]({{site.baseurl}}what-it-means-to-stay/) in my career. Over time, I realized there was a third option: to just go.
+In my post eight years ago, I wrote about a friend telling me I could [“go high or go deep”](/what-it-means-to-stay/) in my career. Over time, I realized there was a third option: to just go.
 
 ### Letting go of the idea of a career arc
 
@@ -66,7 +64,9 @@ Almost two years later, saying goodbye is still the part that physically aches t
 
 ### The second hardest thing was the identity crisis
 
-<div class="wp-block-image is-style-default"> <figure class="alignright is-resized">![Screenshot of tweet from Erin: "Memorializing this moment, afternoon, day 2 of a new job in the private sector after spending the first 15 years of my career in academia, staring at a blank document titled 'Professional bio - Erin' with the cursor blinking. Y'all..."]({{site.baseurl}}/assets//2013-2024//2024/03/IMG_2307.jpg)</figure></div>Skip forward to the move. My wife and I were navigating big changes together: new part of the country, new city, new home, new jobs. Along with all of these big changes came some seismic identity shifts for me as I stepped into a new workplace.
+![Screenshot of tweet from Erin: "Memorializing this moment, afternoon, day 2 of a new job in the private sector after spending the first 15 years of my career in academia, staring at a blank document titled 'Professional bio - Erin' with the cursor blinking. Y'all..."](/assets//2013-2024//2024/03/IMG_2307.jpg)
+
+Skip forward to the move. My wife and I were navigating big changes together: new part of the country, new city, new home, new jobs. Along with all of these big changes came some seismic identity shifts for me as I stepped into a new workplace.
 
 For years prior, I told myself I had a distinct identity separate from my career in libraries, and to some degree, I did. But my professional identity crisis after leaving higher ed was still intense and painful.
 
@@ -135,11 +135,11 @@ Thinking of work-life as a series of strategic moves, rather than a graph going 
 
 ## A final note on leaving academia
 
- <figure class="wp-block-pullquote">> Anyway, all I ever meant by “the institution cannot love you” was this: whether the institution makes you feel great or horrible, it isn’t about you. Institutions aren’t choosing NOT to love you. They are choosing to reproduce themselves.
+ > Anyway, all I ever meant by “the institution cannot love you” was this: whether the institution makes you feel great or horrible, it isn’t about you. Institutions aren’t choosing NOT to love you. They are choosing to reproduce themselves.
 > 
 >  <cite>Tressie McMillan Cottom</cite>
 
- </figure>Many smart folks have written about leaving academia. Academic and cultural heritage institutions anywhere are going to do one thing for certain: self-perpetuate at all costs. “Institutions gonna institution” is a common refrain at our house.
+Many smart folks have written about leaving academia. Academic and cultural heritage institutions anywhere are going to do one thing for certain: self-perpetuate at all costs. “Institutions gonna institution” is a common refrain at our house.
 
 The more I moved into leadership positions at my previous institution, the pricklier I felt about maxims like “the institution cannot love you”, because it felt personal. But it’s not personal. Academic and cultural heritage institutions thrive when employees believe these falsehoods:
 
@@ -165,13 +165,12 @@ This story is to be continued. Maybe there’ll be another update in 2032. Stay 
 
 For folks sticking around to fight the good fight in higher ed: the [United Campus Workers Union](https://ucw-cwa.org/) continues to grow its power.
 
-I’ve started, and continue to update, a [guide to getting a job outside of academia](https://humansmaketech.notion.site/Finding-a-job-outside-of-academia-0c08ac88d25e4103a7673c421098f6ce), in part because so many folks have reached out for advice. Perhaps you’ll find it useful too.
+I’ve started, and continue to update, a [guide to getting a job outside of academia](/finding-a-job-outside-academia/), in part because so many folks have reached out for advice. Perhaps you’ll find it useful too.
 
 Some related posts from former cultural heritage workers that have helped me a lot:
 
 - [Sabbatical](https://beccaquon.com/personal-projects/sabbatical/) by Becca Quon
 - [What it took to take the leap](https://eiratansey.com/2023/12/20/what-it-took-to-take-the-leap/) by Eira Tansey
 - [Finding your purpose](https://halperta.com/shalperta%20press/purpose/) by Hannah Alpert-Abrams
-- [Career change resources](https://alexislogsdon.com/category/career-change/) by Alexis Logsdon
  
 Thank you for reading.

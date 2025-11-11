@@ -4,14 +4,11 @@ title: 'Podcast interview: Names, binaries and trans-affirming systems on Legacy
 date: '2021-03-31T17:38:50-04:00'
 author: erinrwhite
 layout: post
-guid: '{{site.baseurl}}?p=364'
 permalink: /podcast-interview-names-binaries-and-trans-affirming-systems-on-legacy-code-rocks/
 tags: speaking libraries tech ux trans
 ---
 
-In February I was honored to be invited to join Scott Ford on his podcast [Legacy Code Rocks!](https://www.legacycode.rocks/podcast-1/episode/1d635be2/trans-inclusive-design-with-erin-white). I’m embedding the audio below. [View the full episode transcript](https://docs.google.com/document/d/e/2PACX-1vSD3JAZVDuYSbhQASCdUwAzBx1XDlzvWWi01rPOl7Qt_IdZCNRrNnGdinwtv4MA2vlTvqdo1GYg4Zwj/pub) — thanks to trans-owned [Deep South Transcription Services](https://www.facebook.com/DeepSouthTranscriptionServices)!
-
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="232" loading="lazy" src="https://open.spotify.com/embed-podcast/episode/5AFTpdjUOcHZm6vxlicpua" width="100%"></iframe>
+In February I was honored to be invited to join Scott Ford on his podcast [Legacy Code Rocks!](https://www.legacycode.rocks/episodes/93/). I’m embedding the audio below. [View the full episode transcript](https://docs.google.com/document/d/e/2PACX-1vSD3JAZVDuYSbhQASCdUwAzBx1XDlzvWWi01rPOl7Qt_IdZCNRrNnGdinwtv4MA2vlTvqdo1GYg4Zwj/pub) — thanks to trans-owned [Deep South Transcription Services](https://www.facebook.com/DeepSouthTranscriptionServices)!
 
 I’ve pulled out some of the topics we discussed and heavily edited/rearranged them for clarity.
 

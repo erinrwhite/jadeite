@@ -10,7 +10,7 @@
     <ul class="post-tags">
         <li>Tags:</li>
         {% for tag in page.tags %}
-        <li><a href="{{ 'tag/' | relative_url }}{{ tag }}">{{ tag }}</a></li>
+        <li><a href="{{ 'tag/' | relative_url }}{{ tag }}/">{{ tag }}</a></li>
         {% endfor %}
     </ul>
     <div class="entry e-content">

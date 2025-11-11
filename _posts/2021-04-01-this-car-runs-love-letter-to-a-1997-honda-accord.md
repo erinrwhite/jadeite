@@ -9,7 +9,7 @@ permalink: /this-car-runs-love-letter-to-a-1997-honda-accord/
 tags: life richmond
 ---
 
-![Close-up photos of a very well-loved dark green 1997 Honda Accord]({{site.baseurl}}/assets//2013-2024//2021/04/1997-accord-shots.jpg)
+![Close-up photos of a very well-loved dark green 1997 Honda Accord](/assets/2013-2024//2021/04/1997-accord-shots.jpg)
 
 *Three years ago I sold my 1997 Honda Accord DX. Here’s the Craigslist ad love letter I wrote to it.*
 

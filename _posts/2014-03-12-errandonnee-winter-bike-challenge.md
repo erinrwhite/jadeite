@@ -19,8 +19,6 @@ This challenge is exciting to me because even though I primarily travel on two w
 
 ## My updates
 
-<iframe allowfullscreen="" frameborder="0" height="300" loading="lazy" src="https://www.flickr.com/photos/conformerist/13114623464/in/set-72157642270959463/player/" style="float: right;margin-left:1em;" width="400"></iframe>
-
 1. **3/11 – personal health ride:** Mental health cruise through beautiful Richmond on a 70-degree night. Rode through VCU, around Oregon Hill, down to the Capitol and Back. Bright-ass headlight and blinky-ass taillight used to show the way. *9.5 miles.*
 2. **3/12 – work:** commute to work (does this also count as a “library” errand since I’m a librarian?) *3.6 miles.*
 3. **3/12 – groceries:** rolled down to Ellwood Thompson’s for some groceries. *1.4 miles.*
@@ -32,7 +30,7 @@ This challenge is exciting to me because even though I primarily travel on two w
 9. **3/16 – personal health:** rode with Claire to and from the start of the course for our run this morning. *5.0 miles.*
 10. **3/16 – groceries:** easy ride down to Kroger with the panniers for my weekly grocery run. *1.3 miles.*
 11. **3/19 – work:** rode out to the office after 2 days of snow and ice. *3.2 miles.*
-12. **3/19 – reading:** took a side trip to one of my favorite watering holes to dig in to Ed Peeples’ new book, [Scalawag](http://www.amazon.com/Scalawag-Southerners-Journey-Segregation-Activism/dp/0813935393). *0.9 miles.*
+12. **3/19 – reading:** took a side trip to one of my favorite watering holes to dig in to Ed Peeples’ new book, [Scalawag](https://muse.jhu.edu/book/28434). *0.9 miles.*
 13. DONE!
 
 ## 3/20: Reflections

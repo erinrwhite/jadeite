@@ -11,7 +11,7 @@ tags: life humans richmond
 
 I’m proud to be included in [RVANews’ advice to soon-to-be college grads](http://rvanews.com/features/advice-for-soon-to-be-college-grads/111934) today. We were asked to give tweet-length advice. Here’s mine:
 
-> <span style="color: #383838;">Life gets a lot easier once you realize that nobody really knows what’s going on. Go forth with confidence, breathe, and fail open.</span>
+> Life gets a lot easier once you realize that nobody really knows what’s going on. Go forth with confidence, breathe, and fail open.
 
 “Fail open” is a term that comes from the IT world. In security practices, it means something like, if the system fails, give the user access to the system anyway. It’s not a wildly popular IT security principle but it works a little better with humans.
 

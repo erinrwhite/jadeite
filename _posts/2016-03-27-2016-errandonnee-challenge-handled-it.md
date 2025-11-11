@@ -9,11 +9,11 @@ permalink: /2016-errandonnee-challenge-handled-it/
 tags: bikes life richmond
 ---
 
-<div style="float: right;">[![Errandonnee 2016](https://farm2.staticflickr.com/1581/26014456471_6a8da042dc_n.jpg)](https://www.flickr.com/photos/conformerist/albums/72157666395808566 "Errandonnee 2016")<script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script></div>After being foiled by a long trip last year, I got the chance to attempt the [Errandonnee challenge](http://chasingmailboxes.com/2016/02/25/the-errandonnee-ride-or-run-and-get-stuff-done/) again this year (I [attempted it in 2014]({{site.baseurl}}errandonnee-winter-bike-challenge/), too). The challenge: complete 12 errands in 12 days and ride or run a total of 30 miles between March 4-15, 2016.
+After being foiled by a long trip last year, I got the chance to attempt the [Errandonnee challenge](http://chasingmailboxes.com/2016/02/25/the-errandonnee-ride-or-run-and-get-stuff-done/) again this year (I [attempted it in 2014](/errandonnee-winter-bike-challenge/), too). The challenge: complete 12 errands in 12 days and ride or run a total of 30 miles between March 4-15, 2016.
 
 Fun twist: I was in Philadelphia and bikeless from Sunday, March 6-Thursday, March 10.
 
-And yet: 12 errands, 6 distinct days, 61.4 miles. My bike was my old reliable, a [2012 Surly Cross-Check](https://www.flickr.com/photos/conformerist/24069358253/) to which I’ve pledged my undying love.
+And yet: 12 errands, 6 distinct days, 61.4 miles. My bike was my old reliable, a 2012 Surly Cross-Check to which I’ve pledged my undying love.
 
 Anyhow, here’s how the 12 errands shook out.
 
@@ -26,12 +26,12 @@ Anyhow, here’s how the 12 errands shook out.
 
 **March 5**
 
-5. <span style="line-height: 1.5;">Shopping – Ellwoods – 2.2 miles – learned that I can eat a coconut macaroon in a disgusting record time.</span>
+5. Shopping – Ellwoods – 2.2 miles – learned that I can eat a coconut macaroon in a disgusting record time.
 6. You carried WHAT??? – Woodland Heights and back – 7.6 miles – learned that I can probably hold 6 or 7 irons in my bag (only carried 1 this time). Also, the James is beautiful and I wouldn’t mind seeing it every day.
 
 **March 10**
 
-7. Personal care: group ride with [Bike!Bike! Southeast](http://ragandbonesrva.org/bikebike-se-2016/) – 12.1 miles – observed some beautiful city views and met the folks from a bike co-op in West Virginia. It was warm and the group was big (maybe 40 people). Great way to get back on the bike after a few days away.
+7. Personal care: group ride with [Bike!Bike! Southeast](https://ragandbonesrva.org/2015/10/26/what-is-bikebike/) – 12.1 miles – observed some beautiful city views and met the folks from a bike co-op in West Virginia. It was warm and the group was big (maybe 40 people). Great way to get back on the bike after a few days away.
 
 **March 11**
 
@@ -49,4 +49,4 @@ Anyhow, here’s how the 12 errands shook out.
 
 ## Reflections
 
-A couple years ago [I reflected]({{site.baseurl}}errandonnee-winter-bike-challenge/) on how much more this challenge got me out on my bike. This year, I was really just recording the stuff I was doing on my bike anyway. It is truly a luxury to be able to bike everywhere, and I am grateful every day for it.
+A couple years ago [I reflected](/errandonnee-winter-bike-challenge/) on how much more this challenge got me out on my bike. This year, I was really just recording the stuff I was doing on my bike anyway. It is truly a luxury to be able to bike everywhere, and I am grateful every day for it.

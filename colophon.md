@@ -10,10 +10,10 @@ I've been making websites since 1998 and for a long time treated accessibility a
 
 I don't believe there is such a thing as a completely, 100% accessible for everybody all the time product, **and** knowing that actually gives me the freedom to make incremental change every day without worrying about getting it perfect. 
 
-I've learned so much from my colleagues [Brian DeConinck](https://www.briandeconinck.com/), [Eli Mellen](https://el.li), [Jeana Clark](https://www.jeana.dev/), [Jasmine Friedrich](https://www.jasminemadethis.com/), [Josh Kim](https://www.joshkimux.com/), and [David "DK" Kennedy](https://davidakennedy.com/).
+I've learned so much from my colleagues [Brian DeConinck](https://www.briandeconinck.com/), [Eli Mellen](https://eli.li/), [Jeana Clark](https://www.jeana.dev/), [Jasmine Friedrich](https://www.jasminemadethis.com/), [Josh Kim](https://www.joshkimux.com/), and [David "DK" Kennedy](https://davidakennedy.com/).
 
 ## Built with
 
-This site runs on Jekyll, and is hosted on GitHub pages, using the [jekyllBear](https://knhash.in/jekyllBear) theme by [knhash](https://knhash.in) with some of my own design mods. I'm using Aaron Gustafson's [jekyll_webmention-io](https://github.com/aarongustafson/jekyll-webmention_io/) plugin for gathering webmentions.
+This site runs on Jekyll, and is hosted on GitHub pages, using the [jekyllBear](https://github.com/knhash/jekyllBear/) theme by [knhash](https://knhash.in) with some of my own design mods. I'm using Aaron Gustafson's [jekyll_webmention-io](https://github.com/aarongustafson/jekyll-webmention_io/) plugin for gathering webmentions.
 
 My current workflow is to write my posts in [Obsidian](https://obsidian.md) and commit them to github with [Vinzent03's Obsidian Git plugin](https://github.com/Vinzent03/obsidian-git).
