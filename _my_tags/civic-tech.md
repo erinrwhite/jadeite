@@ -1,4 +1,4 @@
 ---
-slug: civic-tech
+slug: civictech
 name: Civic Tech
 ---
