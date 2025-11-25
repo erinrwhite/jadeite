@@ -44,7 +44,7 @@ I’ve done similar challenges in past years:
 2. **October 24** - 9.1 miles - Providence Bike Jam, Halloween edition! I met up with friends and stayed very toasty (too toasty) in a unicorn onesie. It was a nice night and there were a lot of us out. An unnamed beverage was enjoyed.
 3. **November 5** - 4.6 miles - coworking again! Yes, the first couple weeks of the challenge were a little boring.  Coffee and typing.
 4. **November 2** - 5.3 miles - off to [Ogie's Trailer Park](https://www.ogiestrailerpark.com/) for a new friend's birthday party. Happy birthday, Travis! Enjoyed a fall ale and snuck in a trip to the co-op market too.
-5. **November 8** - 13.0 miles - absolutely stunning day on the [East Bay Bike Path](https://www.ogiestrailerpark.com/). My sweetie dropped me off in East Providence and I pedaled to Riverside to meet up for coffee at Borealis with a new friend. Enjoyed a nice long roll back home through Providence.
+5. **November 8** - 13.0 miles - absolutely stunning day on the [East Bay Bike Path](https://dot.ri.gov/travel/bikeri/eastbay.php). My sweetie dropped me off in East Providence and I pedaled to Riverside to meet up for coffee at Borealis with a new friend. Enjoyed a nice long roll back home through Providence.
 6. **November 16** - 7.4 miles - took the ebike to the secret coffee shop by the river to join in celebration of Angela's birthday, then ran errands in the West End.
 7. **November 24** - 5.2 miles - "OMG, it's the last day of the challenge! Off to New Harvest - oh no, it's closed, Seven Stars it is!" I took advantage of the 50-degree weather and took the ebike to enjoy an afternoon tea. Ran into a friend before I set off for home.
 
