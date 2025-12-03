@@ -45,6 +45,9 @@ I presented some ways that we might ask for our users' sex/gender on our forms i
 
 [Malicious compliance gender patterns](https://codepen.io/buttermilkbiscuit/full/bNGpWdJ)
 
+### 2023-present: Information architecture at scale
+- [Incorporating IA into your design system](https://web.archive.org/web/20250615110955/https://www.theiaconference.com/sessions/making-ia-visible-at-scale-representing-information-architecture-in-your-design-system/) - presentation at 2025 Information Architecture conference. 
+- [Interview: Practicing information architecture](https://erinrwhite.com/ia-interview/)
 ### 2024: Design systems for VA.gov
 My VA.gov Design System contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
 
