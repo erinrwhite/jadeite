@@ -35,8 +35,7 @@ permalink: /portfolio
     - I enjoy working directly with clients.
     - I learn fast and collaborate well. ⚓️
 
-You can [find me on GitHub](github.com/erinrwhite).
-
+You can [find me on GitHub](https://github.com/erinrwhite).
 ## Past projects
 
 ### 2025: Design systems for VA.gov
@@ -49,17 +48,25 @@ Taking on the rewarding, weird, confounding, educational challenge of web mainte
 Working with a variety of content management systems from Squarespace to self-hosted Wordpress, Wix to Kinsta, Pantheon to homegrown PHP, I've served as web developer, designer, accessibility specialist, UX writer, technology strategist, and more.
 
 [Humans Make Tech](https://humansmake.tech)
-### 2020: Trans-inclusive system, services, spaces
-I led a Gender-Inclusive Workgroup to explore how VCU Libraries can better serve trans and gender-nonconforming users and staff. The group’s recommendations covered library spaces, staff, computer systems, services, and culture.
+### 2019: *Trans-Inclusive Design* at A List Apart
+I wrote about how we can create a more humane web for trans people at A List Apart, the web magazine for people who make websites. Perhaps the highlight of my career.
 
-Key recommendations included highlighting existing all-gender restrooms; building more gender-inclusive restrooms; expanding availability of menstrual products and disposal bins; continuing support for name-of-use changes in library systems; minimizing display of legal name in library systems; offering ongoing staff training in gender-inclusive language and customer service; and encouraging staff to share pronouns. 
+[Trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/)
+### 2020: Trans-inclusive library systems, services, spaces
+I led a Gender-Inclusive Workgroup to explore how VCU Libraries could better serve trans and gender-nonconforming users and staff. The group’s recommendations covered library spaces, staff, computer systems, services, and culture.
 
 [Gender-inclusive workgroup report](https://scholarscompass.vcu.edu/libraries_task/1/)
-### 2017: Redesigned vendor search tool for VCU Libraries
-Leveraging quantitative analytics including query logging and heatmapping, we developed a new design for VCU Libraries Search (our instance of a vendor's discovery system). The guiding design principles behind this project:
+### 2009-2022: Design work at VCU Libraries
+At VCU, I was hired as a `Web applications developer` and quickly became UX researcher, UX designer, front-end developer, team lead, digital strategist, and finally, department head. 
 
-- Mental models: Bring elements of the search interface in line with other modern, non-library search systems that our users are used to. In our case, we looked to e-commerce websites as a model for some search design patterns. The context is not a perfect 1:1 match, but the comparisons proved useful.
-- Aesthetic Integrity: make the visual design more coherent, consistent, and attractive.
-- Progressive disclosure: make the system more approachable for novice users by simplifying the interface, while keeping options for advanced users available on demand. The Apple Human Interface Guidelines explain this concept well.
+Some of my design projects from that time:
+- [Back-to-school mobile snapshot](https://erinrwhite.com/back-to-school-mobile-snapshot/)
+- [Easier access for databases and research guides at VCU Libraries](https://erinrwhite.com/easier-access-for-databases-and-research-guides-at-vcu-libraries/)
+- [A new look for search at VCU Libraries](https://erinrwhite.com/a-new-look-for-search-at-vcu-libraries/)
 
-[Search redesign case study](https://erinrwhite.com/a-new-look-for-search-at-vcu-libraries/)
+Some of my other writing from that time:
+- [Planning for the most; or, a bellwether speaks](https://erinrwhite.com/planning-for-the-most/)
+- [Programmers are not projects: lessons learned from managing humans](https://github.com/erinrwhite/managing-humans)
+- [Recruiting web workers for your library](https://erinrwhite.com/recruiting-web-workers/)
+- [The UX Moment: A Weave Digital Panel](https://doi.org/10.3998/weave.12535642.0001.203) 
+- [My Google Scholar profile](https://scholar.google.com/citations?user=tB3BYV8AAAAJ&hl=en)
