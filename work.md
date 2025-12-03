@@ -38,7 +38,14 @@ permalink: /portfolio
 You can [find me on GitHub](https://github.com/erinrwhite).
 ## Past projects
 
-### 2025: Design systems for VA.gov
+## 2025: Malicious compliance gender patterns
+*The US's new administration provided some guidance about [asking our users about their sex](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/) (not gender!). But are they really being specific enough?*
+
+I presented some ways that we might ask for our users' sex/gender on our forms in order to comply with new EOs. (Design, content, and code by me.)
+
+[Malicious compliance gender patterns](https://codepen.io/buttermilkbiscuit/full/bNGpWdJ)
+
+### 2024: Design systems for VA.gov
 My VA.gov Design System contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
 
 [VA.gov Design System](https://design.va.gov/ia/)
