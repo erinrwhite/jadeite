@@ -49,6 +49,7 @@ I presented some ways that we might ask for our users' sex/gender on our forms i
 - [Incorporating IA into your design system](https://web.archive.org/web/20250615110955/https://www.theiaconference.com/sessions/making-ia-visible-at-scale-representing-information-architecture-in-your-design-system/) - presentation at 2025 Information Architecture conference. 
 - [Interview: Practicing information architecture](https://erinrwhite.com/ia-interview/)
 - [Observations on working at scale](https://erinrwhite.com/observations-on-working-at-scale/)
+
 ### 2024: Design systems for VA.gov
 My VA.gov Design System contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
 
@@ -65,6 +66,7 @@ I wrote about how we can create a more humane web for trans people at A List Apa
 - [Trans-inclusive design](https://alistapart.com/article/trans-inclusive-design/)
 - [Trans-inclusive design for the Prosocial Design Network](https://erinrwhite.com/trans-inclusive-design-prosocial)
 - [Podcast interview: Names, binaries and trans-affirming systems on Legacy Code Rocks!](https://erinrwhite.com/podcast-interview-names-binaries-and-trans-affirming-systems-on-legacy-code-rocks/)
+
 ### 2020: Trans-inclusive library systems, services, spaces
 I led a Gender-Inclusive Workgroup to explore how VCU Libraries could better serve trans and gender-nonconforming users and staff. The group’s recommendations covered library spaces, staff, computer systems, services, and culture.
 
