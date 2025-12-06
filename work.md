@@ -38,22 +38,15 @@ permalink: /portfolio
 You can [find me on GitHub](https://github.com/erinrwhite).
 ## Past projects
 
-## 2025: Malicious compliance gender patterns
-*The US's new administration provided some guidance about [asking our users about their sex](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/) (not gender!). But are they really being specific enough?*
+### 2023-present: Design systems and UX governance for VA.gov
 
-I presented some ways that we might ask for our users' sex/gender on our forms in order to comply with new EOs. (Design, content, and code by me.)
+Helping product teams understand, use, and contribute back to the VA.gov Design System. My contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
 
-[Malicious compliance gender patterns](https://codepen.io/buttermilkbiscuit/full/bNGpWdJ)
-
-### 2023-present: Information architecture at scale
+- [VA.gov Design System](https://design.va.gov/ia/)
 - [Incorporating IA into your design system](https://web.archive.org/web/20250615110955/https://www.theiaconference.com/sessions/making-ia-visible-at-scale-representing-information-architecture-in-your-design-system/) - presentation at 2025 Information Architecture conference. 
 - [Interview: Practicing information architecture](https://erinrwhite.com/ia-interview/)
 - [Observations on working at scale](https://erinrwhite.com/observations-on-working-at-scale/)
 
-### 2024: Design systems for VA.gov
-My VA.gov Design System contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
-
-[VA.gov Design System](https://design.va.gov/ia/)
 ### 2023-present: Freelance work as Humans Make Tech
 Taking on the rewarding, weird, confounding, educational challenge of web maintenance and repair for small businesses and organizations. My bread and butter is working with clients to make their existing websites better, rather than doing wholesale web redesigns (though sometimes that is in fact the best route). 
 
