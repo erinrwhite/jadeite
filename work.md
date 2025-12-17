@@ -43,17 +43,20 @@ You can [find me on GitHub](https://github.com/erinrwhite).
 #### Governance and platform process improvement
 On the Governance team, I build out and refine our platform processes and procedures, create and enforce digital experience standards, and help teams balance big-picture architectural needs and product requirements. My team helps product teams understand, use, and contribute back to the VA.gov Design System, while shipping accessible and consistent products. 
 - [Observations on working at scale](https://erinrwhite.com/observations-on-working-at-scale/)
+
 #### Contributions to the design system
 My contributions include guidance for breadcrumbs, user flows, content types, page metadata, URL standards, information architecture principles, contributing to documentation, and accessibility testing.
 
 - [VA.gov Design System](https://design.va.gov/ia/)
 - [Incorporating IA into your design system](https://web.archive.org/web/20250615110955/https://www.theiaconference.com/sessions/making-ia-visible-at-scale-representing-information-architecture-in-your-design-system/) - presentation at 2025 Information Architecture conference.
+
 ### 2023-present: Freelance work as Humans Make Tech
 I take on the rewarding, weird, confounding, educational challenge of web maintenance and repair for small businesses and organizations. My bread and butter is working with clients to make their existing websites better, rather than doing wholesale web redesigns (though sometimes that is in fact the best route). 
 
 Working with a variety of content management systems from Squarespace to self-hosted Wordpress, Wix to Kinsta, Pantheon to homegrown PHP, I've served as web developer, designer, accessibility specialist, UX writer, technology strategist, and business development partner.
 
 [Humans Make Tech](https://humansmake.tech)
+
 ### 2019: *Trans-Inclusive Design* at A List Apart and beyond
 I wrote about how we can create a more humane web for trans people at *A List Apart*, the web magazine for people who make websites. Since then, it's been a connecting thread in my career.
 
