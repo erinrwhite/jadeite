@@ -28,7 +28,7 @@ permalink: /portfolio
     - I’ve led digital teams and set digital strategy for most of my career.
 - **Teaching, publishing, presenting**
 	- I speak regularly at local, regional, and national conferences.
-	- I blog and publish widely about UX, inclusive design, and design system.
+	- I blog, publish, and present about UX, inclusive design, and design systems.
 	- I've taught semesterlong UX courses at the graduate level.
 - **Facilitation/client work**
     - I can communicate about design with technical and nontechnical folks.
