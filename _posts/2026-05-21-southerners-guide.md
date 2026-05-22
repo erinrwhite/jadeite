@@ -30,7 +30,7 @@ Always - *always* - bring an extra layer of clothing with you.
 
 ### Beaches
 
-This is the Ocean State. We have the highest ratio of coastline to square miles of any state. We have our pick of beaches: rocky, course sand, fine sand, bluffs, mud; bay beaches, ocean beaches, inland beaches. Ask your new Rhode Island friends for their favorite beaches and they’ll excitedly tell you. 
+This is the Ocean State. We have the highest ratio of coastline to square miles of any state. We have our pick of beaches: rocky, coarse sand, fine sand, bluffs, mud; bay beaches, ocean beaches, inland beaches. Ask your new Rhode Island friends for their favorite beaches and they’ll excitedly tell you. 
 
 No matter where you are in Rhode Island, you can drive 20 minutes and be on a beach. Pack a chair and an umbrella in your trunk from June through September in case you decide to get some beach time on a whim.
 
