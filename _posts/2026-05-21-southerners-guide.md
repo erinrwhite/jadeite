@@ -5,7 +5,7 @@ tags:
   - life
 layout: post
 permalink: /southerners-guide/
-description: An incomplete accounting
+description: "Nature, food, people, politics: An incomplete accounting and attempt at a survival guide for my fellow expats"
 ---
 It’s been almost four years since [my wife and I moved to Rhode Island](/a-bit-of-an-update). I spent the first 38 years of my life in Alabama, Georgia, North Carolina, and Virginia, and I’ve enjoyed the challenge of moving to an entirely new part of the US. I’m sharing what I’ve learned here, with the caveat that this guide is just a start and will be updated over time.
 ## 1. Nature
