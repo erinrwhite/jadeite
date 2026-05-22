@@ -88,6 +88,7 @@ There are five kinds of democrats here:
 - One of them is corrupt as hell and probably will still get re-elected.
 - One of them is a gay moderate whose pockets are lined with corporate donations. 
 - The last one is a democratic socialist and their dedicated base is about to win them a consequential election in 2026.
+
 ### Blue wall…sorta
 
 There is an abundance of laurel-resting among a lot of liberals here, many who come from long lines of families of liberals. Many (but certainly not all!) of these folks do not acknowledge that 44% of Rhode Islanders voted for Donald Trump in 2024, and also low-key hold some  regressive views about poor people, immigrants, trans people, and the economy. Us southerners who came by our progressivism *very* honestly are super fun at parties when we point these things out.
