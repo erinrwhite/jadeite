@@ -24,13 +24,11 @@ Always - *always* - bring an extra layer of clothing with you.
 
 ### Beaches
 
-This is the Ocean State. We have the highest ratio of coastline to square miles of any state. We have our pick of beaches: rocky, course sand, fine sand, bluffs, mud; bay beaches, ocean beaches, inland beaches.
+This is the Ocean State. We have the highest ratio of coastline to square miles of any state. We have our pick of beaches: rocky, course sand, fine sand, bluffs, mud; bay beaches, ocean beaches, inland beaches. Ask your new Rhode Island friends for their favorite beaches and they’ll excitedly tell you. 
 
 No matter where you are in Rhode Island, you can drive 20 minutes and be on a beach. Pack a chair and an umbrella in your trunk from June through September in case you decide to get some beach time on a whim.
 
-Ask your new Rhode Island friends for their favorites and they’ll excitedly tell you. 
-
-If you are feeling sad, you probably just need to see some big water and remember how small you are.
+If you are feeling sad, you probably just need to see some big water and remember how small you are. Go to the beach.
 ### Critters
 
 At my childhood home in central Alabama, the lake in our back yard was home to multiple types of poisonous snakes. In our yard in Virginia, near the river, there were “countless snakes.” We were always terrified of disturbing a pile of brush for fear of finding a water moccasin. Here, there is one type of poisonous snake - the timber rattler - and it’s in the mountains. Gardening here is a **delight**.
@@ -41,6 +39,7 @@ Also, some of the fauna are just different here. Instead of…
 - Possums? Skunks and groundhogs.
 - Buzzards? Turkeys. (There are buzzards [vultures] here, but way fewer than in the South.)
 - Palmetto bugs? Armadillos? Fire ants? `I have no word for this` in southern New England.
+
 ## 2. Foods
 
 ### Grocery stores
@@ -69,13 +68,15 @@ There are a few co-ops and Whole Foods and Trader Joe’s locations that are exa
 **Chow chow** does not exist here. Have a southern comrade bring you up a jar from their local farmers market.
 ### Restaurant foods
 
-**Beware “Southern” restaurants:** Most are simply not. The Slow Rhode in the West End of Providence is maybe the closest thing, and even then it’s “southern-inspired.”
+**Beware “Southern” restaurants:** Most are simply not. [Slow Rhode](https://www.facebook.com/theslowrhode) in the West End of Providence is maybe the closest thing, and even then it’s “southern-inspired.”
 
-**Collards:** Great Northern in West End, Providence, has excellent collards.
+**Collards:** [Great Northern](https://gnbbqco.com/) in West End, Providence, has excellent collards.
 
-**Grits:** You can find some decent grits at Jiggers Diner in East Greenwich. Try the johnny cakes too! (Not southern, but made of corn meal.)
+**BBQ:** Again, Great Northern is solid. [Wes’ Rib House](https://www.facebook.com/WesRibhouse/) is also fine! If you want authentic BBQ, go back to the South.
 
-**Biscuits:** the best biscuits are at Irregardless Biscuits in Providence. The owner, James Dean, is from Mooresville, NC, and he’s using his grandmother’s recipe and flour he carts up once a month from NC. Otherwise, most restaurant biscuits here are bland, greasy, too scone-y, and/or heated from frozen. I said what I said.
+**Grits:** You can find some decent grits at [Jiggers Diner](https://www.facebook.com/jiggersdiner/) in East Greenwich. Try the johnny cakes too! (Not southern, but made of corn meal.)
+
+**Biscuits:** The best biscuits are at [Irregardless Biscuits](https://www.irregardlesspvd.com/) in Providence. The owner, James Dean, is from Mooresville, NC, and he’s using his grandmother’s recipe and flour he carts up once a month from NC. Otherwise, most restaurant biscuits here are bland, greasy, too scone-y, and/or heated from frozen. I said what I said.
 
 ## 3. Politics
 
@@ -90,9 +91,9 @@ There are five kinds of democrats here:
 ### Blue wall…sorta
 
 There is an abundance of laurel-resting among a lot of liberals here, many who come from long lines of families of liberals. Many (but certainly not all!) of these folks do not acknowledge that 44% of Rhode Islanders voted for Donald Trump in 2024, and also low-key hold some  regressive views about poor people, immigrants, trans people, and the economy. Us southerners who came by our progressivism *very* honestly are super fun at parties when we point these things out.
-### “Oh, y’all are RICH-rich”
+### Old money, private schools
 
-Old money, Ivy-educated culture is extremely prevalent here - not just in Newport, but all across southern New England. My wife and I are outliers because we went to public schools all the way through, from elementary to graduate school.
+Old money, Ivy-educated culture is extremely prevalent here - not just in Newport, but all across southern New England. Brown University is in Providence and Harvard is up the road in Boston (well, Cambridge, to be appropriately specific). My wife and I went to public schools all the way through, from elementary to graduate school, and it really took us a minute to get used to the prevalence of private-school education here.
 ## 4. People and culture
 ### Accents
 
