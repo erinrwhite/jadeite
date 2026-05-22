@@ -35,15 +35,17 @@ This is the Ocean State. We have the highest ratio of coastline to square miles 
 No matter where you are in Rhode Island, you can drive 20 minutes and be on a beach. Pack a chair and an umbrella in your trunk from June through September in case you decide to get some beach time on a whim.
 
 If you are feeling sad, you probably just need to see some big water and remember how small you are. Go to the beach.
+
+
 ### Critters
 
-At my childhood home in central Alabama, the lake in our back yard was home to multiple types of poisonous snakes. In our yard in Virginia, near the river, there were “countless snakes.” We were always terrified of disturbing a pile of brush for fear of finding a water moccasin. Here, there is one type of poisonous snake - the timber rattler - and it’s in the mountains. Gardening here is a **delight**.
+At my childhood home in central Alabama, the lake in our back yard was home to multiple types of poisonous snakes. In our yard in Virginia, near the river, there were, as our landscape architect neighbor said, “countless snakes.” We were always terrified of disturbing a pile of brush for fear of finding a water moccasin lying in wait. Here, there is one type of poisonous snake - the timber rattler - and it’s in the mountains. Gardening here is a delight.
 
-Also, some of the fauna are just different here. Instead of…
+Also, some of the fauna are just different here in Rhode Island. Instead of…
 
-- Giant Gulf shrimp? Giant Quahog clams.
-- Possums? Skunks and groundhogs.
-- Buzzards? Turkeys. (There are buzzards [vultures] here, but way fewer than in the South.)
+- Giant Gulf shrimp? We have Giant Quahog clams.
+- Possums? We have skunks and groundhogs.
+- Buzzards? We have turkeys. (There are buzzards [vultures] here, but way fewer than in the South.)
 - Palmetto bugs? Armadillos? Fire ants? `I have no word for this` in southern New England.
 
 ## 2. Foods
@@ -56,7 +58,7 @@ Let me break this down for you:
 - It is not to be confused with **Shore’s**, which is pronounced similarly here, but is smaller and a little spendier (like Earth Fare). 
 - **Price Rite** is Food Lion and 
 - **Stop n Shop** is Kroger. 
-- **Market Basket** stands on its own.
+- **Market Basket** stands on its own - maybe similar to HEB for our Texas family, but that is unconfirmed.
 
 There are a few co-ops and Whole Foods and Trader Joe’s locations that are exactly what you’d expect.
 ### Grocery foods
@@ -74,7 +76,7 @@ There are a few co-ops and Whole Foods and Trader Joe’s locations that are exa
 **Chow chow** does not exist here. Have a southern comrade bring you up a jar from their local farmers market.
 ### Restaurant foods
 
-**Beware “Southern” restaurants:** Most are simply not. [Slow Rhode](https://www.facebook.com/theslowrhode) in the West End of Providence is maybe the closest thing, and even then it’s “southern-inspired.”
+**Beware “Southern” restaurants:** Most are simply not. [Slow Rhode](https://www.facebook.com/theslowrhode) in the West End of Providence is close, but only it’s “southern-inspired.”
 
 **Collards:** [Great Northern](https://gnbbqco.com/) in West End, Providence, has excellent collards.
 
@@ -122,16 +124,17 @@ Most folks will take the note.
 
 ### Southerners find each other here
 
-I must have met 20 folks through friends, friends-of-friends, or just out in public, who are southerners missing home and seeking to connect with other southerners here. Whether we are relieved to be out of the South (sometimes) or missing home (most of the time), we find each other and we make our networks here.
+I must have met 20 folks through friends, friends-of-friends, or just out in public, who are southerners missing home and seeking to connect with other southerners here. Sometimes all I need is *hearing a southern accent* as an excuse to strike up a conversation. Whether we are relieved to be out of the South (sometimes) or missing home (most of the time), we find each other and we make our networks here.
 
 ### Strong queer networks
 
 When my wife ad I moved to Rhode Island, we were friends with two people here. One of them, my friend Angela from library school, knows basically every queer person in Providence over 35. She welcomed us into her network and we have built a super-strong community here. Once you’re here, you’re Family™️.
+
 ### Kind, not always nice
 
 We were asked multiple times before we moved to New England if we were ready to be surrounded by rude people who don’t care about others. Turns out, that ain’t it at all. People here aren’t jerks; they tell it like it is.
 
-Everyone here will give you the shirt off their back if you need help while chiding you for not dressing appropriately. They’ll tell you to be more careful as they’re changing your tire for you. They’ll gruffly tell you to move your car before the tow trucks come through. Unlike some folks in the south who are nice but not kind (“bless your heart”), this is an unexpected and welcome change.
+Everyone here will give you the shirt off their back if you need help, while chiding you for not dressing appropriately. They’ll tell you to be more careful as they’re changing your tire for you. They’ll gruffly tell you to move your car before the tow trucks come through. Unlike some folks in the South who are nice but not kind (“bless your heart”), these kind, straightforward neighbors are an unexpected and welcome change.
 ### Strong regional culture with heart
 
 One tie that connects southern New England and the southern US is our deep, specific, very strange, beautiful regional culture. It has been an absolute joy to get to know this state and all the ins and outs as we build our new home here.
