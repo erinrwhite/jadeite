@@ -16,4 +16,10 @@ I've learned so much from my colleagues [Beth DeConinck](https://bethdeconinck.c
 
 This site runs on Jekyll, and is hosted on GitHub pages, using the [jekyllBear](https://github.com/knhash/jekyllBear/) theme by [knhash](https://knhash.in) with some of my own design mods. I'm using Aaron Gustafson's [jekyll_webmention-io](https://github.com/aarongustafson/jekyll-webmention_io/) plugin for gathering webmentions.
 
-My current workflow is to write my posts in [Obsidian](https://obsidian.md) and commit them to github with [Vinzent03's Obsidian Git plugin](https://github.com/Vinzent03/obsidian-git).
+My current workflow is to write my posts in [Obsidian](https://obsidian.md), often directly from my phone or tablet. I commit them to github with [Vinzent03's Obsidian Git plugin](https://github.com/Vinzent03/obsidian-git).
+
+[I use SimpleAnalytics](/no-external-js-simpleanalytics) for rudimentary, privacy-forward web analytics.
+
+## AI
+
+I don't use Generative AI for any part of this website.
